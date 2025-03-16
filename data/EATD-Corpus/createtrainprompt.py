@@ -78,8 +78,8 @@ def process_directories(isTest=False):
                     # {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
-                
+                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav'],
+                "expected": expected_prediction
             }
 
         results.append(message_json)
