@@ -1,0 +1,37 @@
+Write python code for the following task. 
+There are audio files inside directories along with transcriptions.
+Directories look like.
+
+t_9/
+-- negative.txt
+-- positive.txt
+-- netural.txt
+-- label.txt 
+t_<could be any number here>/
+-- negative.txt
+-- positive.txt
+-- netural.txt
+-- label.txt 
+v_<could be any number here>/
+-- negative.txt
+-- positive.txt
+-- netural.txt
+-- label.txt 
+
+
+Read the text files and pass them to openai api. Now create a prompt to ask it to be a therapist. Explain to it what SDS score is, and Then ask it to put the person on the SDS Scale. Each directory represents a person. 
+
+SDS scale is as follows.
+
+The Zung Self-Rating Depression Scale was designed by Duke University psychiatrist William W.K. Zung MD (1929–1992) to assess the level of depression for patients diagnosed with depressive disorder.[1]
+
+20–44 Normal Range
+45–59 Mildly Depressed
+60–69 Moderately Depressed
+70 and above Severely Depressed
+The Zung Self-Rating Depression Scale has been translated into many languages, including Arabic,[2] Azerbaijani,[3] Dutch, German, Portuguese,[4] and Spanish.[5]
+
+
+Now store the results in the csv in this format. 
+
+<person_name>, <expected SDS Score>, <SDS score predicted by api>
