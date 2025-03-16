@@ -1,5 +1,9 @@
 import os
 import json
+script_dir = os.path.dirname(os.path.realpath(__file__))
+
+# Change the current working directory to the script's directory
+os.chdir(script_dir)
 
 def process_directories():
     results = []
