@@ -1,7 +1,9 @@
 import os
 import json
-script_dir = os.path.dirname(os.path.realpath(__file__))
+import subprocess
 
+script_dir = os.path.dirname(os.path.realpath(__file__))
+cwd = os.getcwd()
 # Change the current working directory to the script's directory
 os.chdir(script_dir)
 
@@ -42,6 +44,7 @@ def process_directories():
             expected_sds_new = f.read()
         
         user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
+        user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
 
         system_prompt = "You are a therapist. The user will give you 3 audios, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
 
@@ -49,12 +52,12 @@ def process_directories():
 
         message_json = {
             "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-                {"role": "assistant", "content": expected_prediction}
+                {"from": "system", "content": system_prompt},
+                {"from": "user", "content": user_prompt},
+                {"from": "assistant", "content": expected_prediction}
             ],
             # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-            "audio": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
+            # "audio": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
             
         }
 
@@ -62,7 +65,13 @@ def process_directories():
 
         print("Processed directory:", directory)
 
-        json.dump(results, open('train_prompt.json', 'w', ), indent=4)
+        json.dump(results, open('train_prompt.json', 'w', encoding="utf-8"), indent=4)
 
 if __name__ == "__main__":
     process_directories()
+    print("Done")
+    os.chdir(cwd)
+    # git add . && git commit -m "test" && git push
+    subprocess.run(["git", "add", "."])
+    subprocess.run(["git", "commit", "-m", "test"])
+    subprocess.run(["git", "push"])
