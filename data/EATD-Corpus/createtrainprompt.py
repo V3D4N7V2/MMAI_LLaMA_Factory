@@ -49,7 +49,8 @@ def process_directories():
                 {"role": "user", "content": user_prompt},
                 {"role": "assistant", "content": expected_prediction}
             ],
-            "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
+            # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
+            "audio": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
             
         }
 
@@ -57,7 +58,7 @@ def process_directories():
 
         print("Processed directory:", directory)
 
-        json.dump(results, open('train_prompt.json', 'w'), indent=4)
+        json.dump(results, open('train_prompt.json', 'w', ), indent=4)
 
 if __name__ == "__main__":
     process_directories()
