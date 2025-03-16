@@ -7,14 +7,21 @@ cwd = os.getcwd()
 # Change the current working directory to the script's directory
 os.chdir(script_dir)
 
-def process_directories():
+def process_directories(isTest=False):
     results = []
     
     # Get all directories
     directories = [d for d in os.listdir('.') if os.path.isdir(d)]
     
     for directory in directories:
-        if not directory.startswith('t_'): continue
+        # if not directory.startswith('t_'): continue
+
+        if isTest:
+            if not directory.startswith('t_'): continue
+        else:
+            if not directory.startswith('v_'): continue
+
+
         print("Processing directory:", directory)
         # Skip files that are not directories
         if not os.path.isdir(directory):
@@ -45,30 +52,45 @@ def process_directories():
         
         user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
         user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
-
-        system_prompt = "You are a therapist. The user will give you 3 audios, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
+        # The user
+        system_prompt = "You are a therapist. I will give you 3 audios, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
 
         expected_prediction = expected_sds_new
 
-        message_json = {
-            "messages": [
-                # {"role": "user", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-                {"role": "assistant", "content": expected_prediction}
-            ],
-            # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-            # "audio": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
-            
-        }
+        if not isTest:
+
+            message_json = {
+                "messages": [
+                    # {"role": "user", "content": system_prompt},
+                    {"role": "user", "content": system_prompt + user_prompt},
+                    {"role": "assistant", "content": expected_prediction}
+                ],
+                # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
+                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
+                
+            }
+
+        if isTest:
+            message_json = {
+                "messages": [
+                    # {"role": "user", "content": system_prompt},
+                    {"role": "user", "content": system_prompt + user_prompt},
+                    # {"role": "assistant", "content": expected_prediction}
+                ],
+                # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
+                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
+                
+            }
 
         results.append(message_json)
 
         print("Processed directory:", directory)
 
-        json.dump(results, open('train_prompt.json', 'w', encoding="utf-8"), indent=4)
+        json.dump(results, open(f'{"test" if isTest else "train"}_prompt.json', 'w', encoding="utf-8"), indent=4)
 
 if __name__ == "__main__":
-    process_directories()
+    process_directories(False)
+    process_directories(True)
     print("Done")
     os.chdir(cwd)
     # git add . && git commit -m "test" && git push
