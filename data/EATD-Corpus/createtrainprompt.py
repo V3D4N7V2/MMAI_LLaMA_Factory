@@ -52,7 +52,7 @@ def process_directories():
 
         message_json = {
             "messages": [
-                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
                 {"role": "assistant", "content": expected_prediction}
             ],
