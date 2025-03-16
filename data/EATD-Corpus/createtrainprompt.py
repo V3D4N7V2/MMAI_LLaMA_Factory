@@ -86,7 +86,7 @@ def process_directories(isTest=False):
 
         print("Processed directory:", directory)
 
-        json.dump(results, open(f'{"test" if  isTest else "train"}_prompt.json', 'w', encoding="utf-8"), indent=4)
+        json.dump(results, open(f'{"test" if isTest else "train"}_prompt.json', 'w', encoding="utf-8"), indent=4)
 
 if __name__ == "__main__":
     process_directories(False)
