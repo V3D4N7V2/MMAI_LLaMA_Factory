@@ -55,6 +55,8 @@ def process_directories(isTest=False):
         # The user
         system_prompt = "You are a therapist. I will give you 3 audios, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
 
+        specify_output = "Please specify the SDS score for the audio. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression). Only output a number. Do no explain your answer."
+
         expected_prediction = expected_sds_new
 
         if not isTest:
@@ -74,7 +76,7 @@ def process_directories(isTest=False):
             message_json = {
                 "messages": [
                     # {"role": "user", "content": system_prompt},
-                    {"role": "user", "content": system_prompt + user_prompt},
+                    {"role": "user", "content": system_prompt + user_prompt + specify_output},
                     # {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
