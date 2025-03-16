@@ -1,4 +1,12 @@
-{
+{ 
+  "mmai_data": {
+    "file_name": "train_prompt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "audios": "audios"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
