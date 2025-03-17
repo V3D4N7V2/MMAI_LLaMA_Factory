@@ -50,7 +50,7 @@ def process_directories(isTest=False):
         with open(expected_sds_new_path, 'r', encoding="utf-8") as f:
             expected_sds_new = f.read()
         
-        user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
+        user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive # + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
         # user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
         # The user
         system_prompt = "You are a therapist. I will give you 3 audios, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
@@ -68,7 +68,10 @@ def process_directories(isTest=False):
                     {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav']
+                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' 
+                , f'EATD-Corpus/{directory}/positive_out.wav' 
+                # , f'EATD-Corpus/{directory}/neutral_out.wav'
+                ]
                 
             }
 
@@ -80,7 +83,10 @@ def process_directories(isTest=False):
                     # {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' , f'EATD-Corpus/{directory}/positive_out.wav' , f'EATD-Corpus/{directory}/neutral_out.wav'],
+                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' 
+                , f'EATD-Corpus/{directory}/positive_out.wav' 
+                # , f'EATD-Corpus/{directory}/neutral_out.wav'
+                ],
                 "expected": expected_prediction
             }
 
