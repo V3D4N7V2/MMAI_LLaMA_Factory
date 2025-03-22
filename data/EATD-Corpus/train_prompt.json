@@ -9,9 +9,6 @@
                 "role": "assistant",
                 "content": "46.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_1/combined_out.wav"
         ]
     },
     {
@@ -24,9 +21,6 @@
                 "role": "assistant",
                 "content": "37.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_10/combined_out.wav"
         ]
     },
     {
@@ -39,9 +33,6 @@
                 "role": "assistant",
                 "content": "52.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_101/combined_out.wav"
         ]
     },
     {
@@ -54,9 +45,6 @@
                 "role": "assistant",
                 "content": "82.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_102/combined_out.wav"
         ]
     },
     {
@@ -69,9 +57,6 @@
                 "role": "assistant",
                 "content": "51.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_103/combined_out.wav"
         ]
     },
     {
@@ -84,9 +69,6 @@
                 "role": "assistant",
                 "content": "56.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_104/combined_out.wav"
         ]
     },
     {
@@ -99,9 +81,6 @@
                 "role": "assistant",
                 "content": "68.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_105/combined_out.wav"
         ]
     },
     {
@@ -114,9 +93,6 @@
                 "role": "assistant",
                 "content": "27.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_106/combined_out.wav"
         ]
     },
     {
@@ -129,9 +105,6 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_107/combined_out.wav"
         ]
     },
     {
@@ -144,9 +117,6 @@
                 "role": "assistant",
                 "content": "71.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_109/combined_out.wav"
         ]
     },
     {
@@ -159,9 +129,6 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_11/combined_out.wav"
         ]
     },
     {
@@ -174,9 +141,6 @@
                 "role": "assistant",
                 "content": "68.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_111/combined_out.wav"
         ]
     },
     {
@@ -189,9 +153,6 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_12/combined_out.wav"
         ]
     },
     {
@@ -204,9 +165,6 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_13/combined_out.wav"
         ]
     },
     {
@@ -219,9 +177,6 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_14/combined_out.wav"
         ]
     },
     {
@@ -234,9 +189,6 @@
                 "role": "assistant",
                 "content": "42.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_15/combined_out.wav"
         ]
     },
     {
@@ -249,9 +201,6 @@
                 "role": "assistant",
                 "content": "46.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_16/combined_out.wav"
         ]
     },
     {
@@ -264,9 +213,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_18/combined_out.wav"
         ]
     },
     {
@@ -279,9 +225,6 @@
                 "role": "assistant",
                 "content": "48.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_2/combined_out.wav"
         ]
     },
     {
@@ -294,9 +237,6 @@
                 "role": "assistant",
                 "content": "63.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_20/combined_out.wav"
         ]
     },
     {
@@ -309,9 +249,6 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_21/combined_out.wav"
         ]
     },
     {
@@ -324,9 +261,6 @@
                 "role": "assistant",
                 "content": "62.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_22/combined_out.wav"
         ]
     },
     {
@@ -339,9 +273,6 @@
                 "role": "assistant",
                 "content": "61.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_26/combined_out.wav"
         ]
     },
     {
@@ -354,9 +285,6 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_27/combined_out.wav"
         ]
     },
     {
@@ -369,9 +297,6 @@
                 "role": "assistant",
                 "content": "37.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_28/combined_out.wav"
         ]
     },
     {
@@ -384,9 +309,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_29/combined_out.wav"
         ]
     },
     {
@@ -399,9 +321,6 @@
                 "role": "assistant",
                 "content": "56.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_3/combined_out.wav"
         ]
     },
     {
@@ -414,9 +333,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_30/combined_out.wav"
         ]
     },
     {
@@ -429,9 +345,6 @@
                 "role": "assistant",
                 "content": "60.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_31/combined_out.wav"
         ]
     },
     {
@@ -444,9 +357,6 @@
                 "role": "assistant",
                 "content": "52.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_32/combined_out.wav"
         ]
     },
     {
@@ -459,9 +369,6 @@
                 "role": "assistant",
                 "content": "32.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_33/combined_out.wav"
         ]
     },
     {
@@ -474,9 +381,6 @@
                 "role": "assistant",
                 "content": "50.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_34/combined_out.wav"
         ]
     },
     {
@@ -489,9 +393,6 @@
                 "role": "assistant",
                 "content": "42.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_35/combined_out.wav"
         ]
     },
     {
@@ -504,9 +405,6 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_36/combined_out.wav"
         ]
     },
     {
@@ -519,9 +417,6 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_38/combined_out.wav"
         ]
     },
     {
@@ -534,9 +429,6 @@
                 "role": "assistant",
                 "content": "48.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_39/combined_out.wav"
         ]
     },
     {
@@ -549,9 +441,6 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_40/combined_out.wav"
         ]
     },
     {
@@ -564,9 +453,6 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_41/combined_out.wav"
         ]
     },
     {
@@ -579,9 +465,6 @@
                 "role": "assistant",
                 "content": "37.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_42/combined_out.wav"
         ]
     },
     {
@@ -594,9 +477,6 @@
                 "role": "assistant",
                 "content": "53.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_43/combined_out.wav"
         ]
     },
     {
@@ -609,9 +489,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_44/combined_out.wav"
         ]
     },
     {
@@ -624,9 +501,6 @@
                 "role": "assistant",
                 "content": "51.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_45/combined_out.wav"
         ]
     },
     {
@@ -639,9 +513,6 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_46/combined_out.wav"
         ]
     },
     {
@@ -654,9 +525,6 @@
                 "role": "assistant",
                 "content": "48.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_47/combined_out.wav"
         ]
     },
     {
@@ -669,9 +537,6 @@
                 "role": "assistant",
                 "content": "45.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_48/combined_out.wav"
         ]
     },
     {
@@ -684,9 +549,6 @@
                 "role": "assistant",
                 "content": "62.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_5/combined_out.wav"
         ]
     },
     {
@@ -699,9 +561,6 @@
                 "role": "assistant",
                 "content": "31.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_51/combined_out.wav"
         ]
     },
     {
@@ -714,9 +573,6 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_53/combined_out.wav"
         ]
     },
     {
@@ -729,9 +585,6 @@
                 "role": "assistant",
                 "content": "25.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_54/combined_out.wav"
         ]
     },
     {
@@ -744,9 +597,6 @@
                 "role": "assistant",
                 "content": "28.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_55/combined_out.wav"
         ]
     },
     {
@@ -759,9 +609,6 @@
                 "role": "assistant",
                 "content": "58.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_56/combined_out.wav"
         ]
     },
     {
@@ -774,9 +621,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_58/combined_out.wav"
         ]
     },
     {
@@ -789,9 +633,6 @@
                 "role": "assistant",
                 "content": "45.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_59/combined_out.wav"
         ]
     },
     {
@@ -804,9 +645,6 @@
                 "role": "assistant",
                 "content": "45.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_6/combined_out.wav"
         ]
     },
     {
@@ -819,9 +657,6 @@
                 "role": "assistant",
                 "content": "67.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_60/combined_out.wav"
         ]
     },
     {
@@ -834,9 +669,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_61/combined_out.wav"
         ]
     },
     {
@@ -849,9 +681,6 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_62/combined_out.wav"
         ]
     },
     {
@@ -864,9 +693,6 @@
                 "role": "assistant",
                 "content": "53.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_63/combined_out.wav"
         ]
     },
     {
@@ -879,9 +705,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_64/combined_out.wav"
         ]
     },
     {
@@ -894,9 +717,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_66/combined_out.wav"
         ]
     },
     {
@@ -909,9 +729,6 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_67/combined_out.wav"
         ]
     },
     {
@@ -924,9 +741,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_68/combined_out.wav"
         ]
     },
     {
@@ -939,9 +753,6 @@
                 "role": "assistant",
                 "content": "51.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_69/combined_out.wav"
         ]
     },
     {
@@ -954,9 +765,6 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_70/combined_out.wav"
         ]
     },
     {
@@ -969,9 +777,6 @@
                 "role": "assistant",
                 "content": "38.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_75/combined_out.wav"
         ]
     },
     {
@@ -984,9 +789,6 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_76/combined_out.wav"
         ]
     },
     {
@@ -999,9 +801,6 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_78/combined_out.wav"
         ]
     },
     {
@@ -1014,9 +813,6 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_79/combined_out.wav"
         ]
     },
     {
@@ -1029,9 +825,6 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_8/combined_out.wav"
         ]
     },
     {
@@ -1044,9 +837,6 @@
                 "role": "assistant",
                 "content": "50.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_81/combined_out.wav"
         ]
     },
     {
@@ -1059,9 +849,6 @@
                 "role": "assistant",
                 "content": "32.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_82/combined_out.wav"
         ]
     },
     {
@@ -1074,9 +861,6 @@
                 "role": "assistant",
                 "content": "76.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_85/combined_out.wav"
         ]
     },
     {
@@ -1089,9 +873,6 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_86/combined_out.wav"
         ]
     },
     {
@@ -1104,9 +885,6 @@
                 "role": "assistant",
                 "content": "52.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_87/combined_out.wav"
         ]
     },
     {
@@ -1119,9 +897,6 @@
                 "role": "assistant",
                 "content": "32.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_88/combined_out.wav"
         ]
     },
     {
@@ -1134,9 +909,6 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_89/combined_out.wav"
         ]
     },
     {
@@ -1149,9 +921,6 @@
                 "role": "assistant",
                 "content": "53.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_9/combined_out.wav"
         ]
     },
     {
@@ -1164,9 +933,6 @@
                 "role": "assistant",
                 "content": "66.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_90/combined_out.wav"
         ]
     },
     {
@@ -1179,9 +945,6 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_91/combined_out.wav"
         ]
     },
     {
@@ -1194,9 +957,6 @@
                 "role": "assistant",
                 "content": "56.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_93/combined_out.wav"
         ]
     },
     {
@@ -1209,9 +969,6 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_96/combined_out.wav"
         ]
     },
     {
@@ -1224,9 +981,6 @@
                 "role": "assistant",
                 "content": "31.250000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_97/combined_out.wav"
         ]
     },
     {
@@ -1239,9 +993,6 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ],
-        "audios": [
-            "EATD-Corpus/t_99/combined_out.wav"
         ]
     }
 ]
