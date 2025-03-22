@@ -4,9 +4,10 @@ import pandas as pd
 import time
 import re
 
-model="llama-3.3-70b-versatile"
-model="deepseek-r1-distill-llama-70b" 
-model="gpt-4o-mini"
+# model="llama-3.3-70b-versatile"
+# model="deepseek-r1-distill-llama-70b" 
+# model="gpt-4o-mini"
+model = "gpt-3.5-turbo"
 # Initialize OpenAI client
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
@@ -73,7 +74,7 @@ def process_directories():
             combined_text =  "Negative Answer: " + negative + ' \nPositive Answer:' + positive + ' \n Neutral Answer:' + neutral
             
             # Get SDS prediction
-            predicted_sds = get_sds_prediction(combined_text)
+            predicted_sds = get_sds_prediction(combined_text, [])
             
             # Store results
             results.append({

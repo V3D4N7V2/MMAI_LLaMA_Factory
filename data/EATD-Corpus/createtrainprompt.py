@@ -7,6 +7,30 @@ cwd = os.getcwd()
 # Change the current working directory to the script's directory
 os.chdir(script_dir)
 
+from pydub import AudioSegment
+
+def combine_wav_files_with_silence(file_paths, output_path, silence_duration_ms=1000):
+    # Create an empty AudioSegment
+    combined = AudioSegment.empty()
+
+    # Define silence segment
+    silence = AudioSegment.silent(duration=silence_duration_ms)
+
+    for file_path in file_paths:
+        # Load the current audio file
+        audio = AudioSegment.from_wav(file_path)
+        # Append the audio and then the silence
+        combined += audio + silence
+
+    # Export the combined audio
+    combined.export(output_path, format='wav')
+
+# # Example usage
+# wav_files = ['audio1.wav', 'audio2.wav', 'audio3.wav']
+# output_file = 'combined_output.wav'
+# combine_wav_files_with_silence(wav_files, output_file)
+
+
 def process_directories(isTest=False):
     results = []
     
@@ -35,6 +59,19 @@ def process_directories(isTest=False):
         negative_path_audio = os.path.join(directory, 'negative_out.wav')
         positive_path_audio = os.path.join(directory, 'positive_out.wav')
         neutral_path_audio = os.path.join(directory, 'neutral_out.wav')
+
+        combined_audio_path = os.path.join(directory, 'combined_out.wav')
+
+        # combine files into one if not already done
+
+        if not os.path.exists(combined_audio_path):
+            combine_wav_files_with_silence([
+                negative_path_audio, neutral_path_audio, positive_path_audio
+            ], combined_audio_path)
+            # , neutral_path_audio
+
+        # Combine audio files into one
+
         #
         expected_sds_path = os.path.join(directory, 'label.txt')
         expected_sds_new_path = os.path.join(directory, 'new_label.txt')
@@ -50,10 +87,13 @@ def process_directories(isTest=False):
         with open(expected_sds_new_path, 'r', encoding="utf-8") as f:
             expected_sds_new = f.read()
         
-        user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive # + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
+        # user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive # + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
+        # user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive + ' \n Neutral Answer Transcription:' + neutral
+
+        user_prompt = f'Answer Audio: <audio> \nNegative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
         # user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
         # The user
-        system_prompt = "You are a therapist. I will give you 3 audios, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
+        system_prompt = "You are a therapist. I will give you an audio with 3 answers, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
 
         specify_output = "Please specify the SDS score for the audio. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression). Only output a number. Do no explain your answer."
 
@@ -68,11 +108,11 @@ def process_directories(isTest=False):
                     {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' 
-                , f'EATD-Corpus/{directory}/positive_out.wav' 
-                # , f'EATD-Corpus/{directory}/neutral_out.wav'
-                ]
-                
+                # "audios": [f'EATD-Corpus/{directory}/negative_out.wav' 
+                # , f'EATD-Corpus/{directory}/positive_out.wav' 
+                # # , f'EATD-Corpus/{directory}/neutral_out.wav'
+                # ]
+                "audios": [f'EATD-Corpus/{directory}/combined_out.wav']
             }
 
         if isTest:
@@ -83,10 +123,11 @@ def process_directories(isTest=False):
                     # {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
-                "audios": [f'EATD-Corpus/{directory}/negative_out.wav' 
-                , f'EATD-Corpus/{directory}/positive_out.wav' 
-                # , f'EATD-Corpus/{directory}/neutral_out.wav'
-                ],
+                # "audios": [f'EATD-Corpus/{directory}/negative_out.wav' 
+                # , f'EATD-Corpus/{directory}/positive_out.wav' 
+                # # , f'EATD-Corpus/{directory}/neutral_out.wav'
+                # ],
+                "audios": [f'EATD-Corpus/{directory}/combined_out.wav'],
                 "expected": expected_prediction
             }
 
