@@ -1056,6 +1056,8 @@ class Qwen2AudioPlugin(BasePlugin):
         for message in messages:
             content = message["content"]
             while AUDIO_PLACEHOLDER in content:
+                print("AUDIO_PLACEHOLDER found in content")
+                print(audio_lengths)
                 if self.expand_mm_tokens:
                     audio_length = audio_lengths.pop(0)
                     input_length = (audio_length - 1) // 2 + 1
