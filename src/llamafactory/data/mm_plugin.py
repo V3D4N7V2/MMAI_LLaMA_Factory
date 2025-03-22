@@ -249,7 +249,7 @@ class MMPluginMixin:
                 raise ValueError(f"Expect input is a list of audios, but got {type(audio)}.")
 
             results.append(audio)
-        print(f"Audio processing complete. Number of audios: {len(results)}")
+
         return results
 
     def _get_mm_inputs(
@@ -1051,13 +1051,10 @@ class Qwen2AudioPlugin(BasePlugin):
             mm_inputs = self._get_mm_inputs([], [], audios, processor)
             if "feature_attention_mask" in mm_inputs:
                 audio_lengths = mm_inputs["feature_attention_mask"].sum(-1).tolist()
-                print(audio_lengths)
 
         for message in messages:
             content = message["content"]
             while AUDIO_PLACEHOLDER in content:
-                print("AUDIO_PLACEHOLDER found in content")
-                print(audio_lengths)
                 if self.expand_mm_tokens:
                     audio_length = audio_lengths.pop(0)
                     input_length = (audio_length - 1) // 2 + 1
