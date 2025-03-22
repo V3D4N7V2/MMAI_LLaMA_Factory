@@ -1,6 +1,7 @@
 import os
 import json
 import subprocess
+import time
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
 cwd = os.getcwd()
@@ -143,6 +144,7 @@ if __name__ == "__main__":
     process_directories(True)
     print("Done")
     os.chdir(cwd)
+    time.sleep(5)
     # git add . && git commit -m "test" && git push
     subprocess.run(["git", "add", "."])
     subprocess.run(["git", "commit", "-m", "test"])
