@@ -153,7 +153,7 @@ def process_directories(isTest=False, has_audio=False):
             filename += '_no_audio'
         json.dump(results, open(f'{filename}_prompt.json', 'w', encoding="utf-8"), indent=4)
         # put in parent directory
-        json.dump(results, open(os.path.join('..', f'{filename}_prompt.json'), 'w', encoding="utf-8"), indent=4)
+        json.dump(results, open(os.path.join(f"{cwd}/data/", f'{filename}_prompt.json'), 'w', encoding="utf-8"), indent=4)
 
 if __name__ == "__main__":
     process_directories(False)
