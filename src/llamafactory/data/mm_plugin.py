@@ -1051,6 +1051,7 @@ class Qwen2AudioPlugin(BasePlugin):
             mm_inputs = self._get_mm_inputs([], [], audios, processor)
             if "feature_attention_mask" in mm_inputs:
                 audio_lengths = mm_inputs["feature_attention_mask"].sum(-1).tolist()
+                print(audio_lengths)
 
         for message in messages:
             content = message["content"]
