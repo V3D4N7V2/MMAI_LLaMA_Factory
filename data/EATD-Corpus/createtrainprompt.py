@@ -31,6 +31,21 @@ def combine_wav_files_with_silence(file_paths, output_path, silence_duration_ms=
 # output_file = 'combined_output.wav'
 # combine_wav_files_with_silence(wav_files, output_file)
 
+def sds_category(score):
+    try:
+        score = int(score)
+    except:
+        return score
+    if score < 20:
+        return "Below Normal"
+    elif 20 <= score <= 44:
+        return "Normal"
+    elif 45 <= score <= 59:
+        return "Mildly Depressed"
+    elif 60 <= score <= 69:
+        return "Moderately Depressed"
+    else:  # score >= 70
+        return "Severely Depressed"
 
 def process_directories(isTest=False, has_audio=False):
     results = []
@@ -100,7 +115,7 @@ def process_directories(isTest=False, has_audio=False):
 
         specify_output = "Please specify the SDS score for the audio. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression). Only output a number. Do no explain your answer."
 
-        expected_prediction = expected_sds_new
+        expected_prediction = sds_category(expected_sds_new)
 
         if not isTest:
 

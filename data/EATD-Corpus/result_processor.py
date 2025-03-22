@@ -58,7 +58,7 @@ def process_csv(input_file, output_file):
 
 # Process all CSV files in the current directory that don't already have '_processed' in their name
 for csv_file in glob.glob("*.csv"):
-    if not csv_file.endswith("_processed.csv") and csv_file.endswith("flash_audio.csv"):
+    if not csv_file.endswith("_processed.csv"):
         base, ext = os.path.splitext(csv_file)
         output_file = f"{base}_processed{ext}"
         try:
