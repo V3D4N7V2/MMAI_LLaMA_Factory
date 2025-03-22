@@ -138,7 +138,7 @@ def process_directories(isTest=False, has_audio=False):
             if has_audio:
                 # "audios": [f'EATD-Corpus/{directory}/combined_out.wav'],
                 message_json['audios'] = [f'EATD-Corpus/{directory}/combined_out.wav']
-
+        message_json['directory'] = directory
         results.append(message_json)
 
         print("Processed directory:", directory)

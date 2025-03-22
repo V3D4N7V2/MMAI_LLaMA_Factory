@@ -9,7 +9,8 @@
                 "role": "assistant",
                 "content": "46.250000"
             }
-        ]
+        ],
+        "directory": "t_1"
     },
     {
         "messages": [
@@ -21,7 +22,8 @@
                 "role": "assistant",
                 "content": "37.500000"
             }
-        ]
+        ],
+        "directory": "t_10"
     },
     {
         "messages": [
@@ -33,7 +35,8 @@
                 "role": "assistant",
                 "content": "52.500000"
             }
-        ]
+        ],
+        "directory": "t_101"
     },
     {
         "messages": [
@@ -45,7 +48,8 @@
                 "role": "assistant",
                 "content": "82.500000"
             }
-        ]
+        ],
+        "directory": "t_102"
     },
     {
         "messages": [
@@ -57,7 +61,8 @@
                 "role": "assistant",
                 "content": "51.250000"
             }
-        ]
+        ],
+        "directory": "t_103"
     },
     {
         "messages": [
@@ -69,7 +74,8 @@
                 "role": "assistant",
                 "content": "56.250000"
             }
-        ]
+        ],
+        "directory": "t_104"
     },
     {
         "messages": [
@@ -81,7 +87,8 @@
                 "role": "assistant",
                 "content": "68.750000"
             }
-        ]
+        ],
+        "directory": "t_105"
     },
     {
         "messages": [
@@ -93,7 +100,8 @@
                 "role": "assistant",
                 "content": "27.500000"
             }
-        ]
+        ],
+        "directory": "t_106"
     },
     {
         "messages": [
@@ -105,7 +113,8 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ]
+        ],
+        "directory": "t_107"
     },
     {
         "messages": [
@@ -117,7 +126,8 @@
                 "role": "assistant",
                 "content": "71.250000"
             }
-        ]
+        ],
+        "directory": "t_109"
     },
     {
         "messages": [
@@ -129,7 +139,8 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ]
+        ],
+        "directory": "t_11"
     },
     {
         "messages": [
@@ -141,7 +152,8 @@
                 "role": "assistant",
                 "content": "68.750000"
             }
-        ]
+        ],
+        "directory": "t_111"
     },
     {
         "messages": [
@@ -153,7 +165,8 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ]
+        ],
+        "directory": "t_12"
     },
     {
         "messages": [
@@ -165,7 +178,8 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ]
+        ],
+        "directory": "t_13"
     },
     {
         "messages": [
@@ -177,7 +191,8 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ]
+        ],
+        "directory": "t_14"
     },
     {
         "messages": [
@@ -189,7 +204,8 @@
                 "role": "assistant",
                 "content": "42.500000"
             }
-        ]
+        ],
+        "directory": "t_15"
     },
     {
         "messages": [
@@ -201,7 +217,8 @@
                 "role": "assistant",
                 "content": "46.250000"
             }
-        ]
+        ],
+        "directory": "t_16"
     },
     {
         "messages": [
@@ -213,7 +230,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_18"
     },
     {
         "messages": [
@@ -225,7 +243,8 @@
                 "role": "assistant",
                 "content": "48.750000"
             }
-        ]
+        ],
+        "directory": "t_2"
     },
     {
         "messages": [
@@ -237,7 +256,8 @@
                 "role": "assistant",
                 "content": "63.750000"
             }
-        ]
+        ],
+        "directory": "t_20"
     },
     {
         "messages": [
@@ -249,7 +269,8 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ]
+        ],
+        "directory": "t_21"
     },
     {
         "messages": [
@@ -261,7 +282,8 @@
                 "role": "assistant",
                 "content": "62.500000"
             }
-        ]
+        ],
+        "directory": "t_22"
     },
     {
         "messages": [
@@ -273,7 +295,8 @@
                 "role": "assistant",
                 "content": "61.250000"
             }
-        ]
+        ],
+        "directory": "t_26"
     },
     {
         "messages": [
@@ -285,7 +308,8 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ]
+        ],
+        "directory": "t_27"
     },
     {
         "messages": [
@@ -297,7 +321,8 @@
                 "role": "assistant",
                 "content": "37.500000"
             }
-        ]
+        ],
+        "directory": "t_28"
     },
     {
         "messages": [
@@ -309,7 +334,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_29"
     },
     {
         "messages": [
@@ -321,7 +347,8 @@
                 "role": "assistant",
                 "content": "56.250000"
             }
-        ]
+        ],
+        "directory": "t_3"
     },
     {
         "messages": [
@@ -333,7 +360,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_30"
     },
     {
         "messages": [
@@ -345,7 +373,8 @@
                 "role": "assistant",
                 "content": "60.000000"
             }
-        ]
+        ],
+        "directory": "t_31"
     },
     {
         "messages": [
@@ -357,7 +386,8 @@
                 "role": "assistant",
                 "content": "52.500000"
             }
-        ]
+        ],
+        "directory": "t_32"
     },
     {
         "messages": [
@@ -369,7 +399,8 @@
                 "role": "assistant",
                 "content": "32.500000"
             }
-        ]
+        ],
+        "directory": "t_33"
     },
     {
         "messages": [
@@ -381,7 +412,8 @@
                 "role": "assistant",
                 "content": "50.000000"
             }
-        ]
+        ],
+        "directory": "t_34"
     },
     {
         "messages": [
@@ -393,7 +425,8 @@
                 "role": "assistant",
                 "content": "42.500000"
             }
-        ]
+        ],
+        "directory": "t_35"
     },
     {
         "messages": [
@@ -405,7 +438,8 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ]
+        ],
+        "directory": "t_36"
     },
     {
         "messages": [
@@ -417,7 +451,8 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ]
+        ],
+        "directory": "t_38"
     },
     {
         "messages": [
@@ -429,7 +464,8 @@
                 "role": "assistant",
                 "content": "48.750000"
             }
-        ]
+        ],
+        "directory": "t_39"
     },
     {
         "messages": [
@@ -441,7 +477,8 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ]
+        ],
+        "directory": "t_40"
     },
     {
         "messages": [
@@ -453,7 +490,8 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ]
+        ],
+        "directory": "t_41"
     },
     {
         "messages": [
@@ -465,7 +503,8 @@
                 "role": "assistant",
                 "content": "37.500000"
             }
-        ]
+        ],
+        "directory": "t_42"
     },
     {
         "messages": [
@@ -477,7 +516,8 @@
                 "role": "assistant",
                 "content": "53.750000"
             }
-        ]
+        ],
+        "directory": "t_43"
     },
     {
         "messages": [
@@ -489,7 +529,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_44"
     },
     {
         "messages": [
@@ -501,7 +542,8 @@
                 "role": "assistant",
                 "content": "51.250000"
             }
-        ]
+        ],
+        "directory": "t_45"
     },
     {
         "messages": [
@@ -513,7 +555,8 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ]
+        ],
+        "directory": "t_46"
     },
     {
         "messages": [
@@ -525,7 +568,8 @@
                 "role": "assistant",
                 "content": "48.750000"
             }
-        ]
+        ],
+        "directory": "t_47"
     },
     {
         "messages": [
@@ -537,7 +581,8 @@
                 "role": "assistant",
                 "content": "45.000000"
             }
-        ]
+        ],
+        "directory": "t_48"
     },
     {
         "messages": [
@@ -549,7 +594,8 @@
                 "role": "assistant",
                 "content": "62.500000"
             }
-        ]
+        ],
+        "directory": "t_5"
     },
     {
         "messages": [
@@ -561,7 +607,8 @@
                 "role": "assistant",
                 "content": "31.250000"
             }
-        ]
+        ],
+        "directory": "t_51"
     },
     {
         "messages": [
@@ -573,7 +620,8 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ]
+        ],
+        "directory": "t_53"
     },
     {
         "messages": [
@@ -585,7 +633,8 @@
                 "role": "assistant",
                 "content": "25.000000"
             }
-        ]
+        ],
+        "directory": "t_54"
     },
     {
         "messages": [
@@ -597,7 +646,8 @@
                 "role": "assistant",
                 "content": "28.750000"
             }
-        ]
+        ],
+        "directory": "t_55"
     },
     {
         "messages": [
@@ -609,7 +659,8 @@
                 "role": "assistant",
                 "content": "58.750000"
             }
-        ]
+        ],
+        "directory": "t_56"
     },
     {
         "messages": [
@@ -621,7 +672,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_58"
     },
     {
         "messages": [
@@ -633,7 +685,8 @@
                 "role": "assistant",
                 "content": "45.000000"
             }
-        ]
+        ],
+        "directory": "t_59"
     },
     {
         "messages": [
@@ -645,7 +698,8 @@
                 "role": "assistant",
                 "content": "45.000000"
             }
-        ]
+        ],
+        "directory": "t_6"
     },
     {
         "messages": [
@@ -657,7 +711,8 @@
                 "role": "assistant",
                 "content": "67.500000"
             }
-        ]
+        ],
+        "directory": "t_60"
     },
     {
         "messages": [
@@ -669,7 +724,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_61"
     },
     {
         "messages": [
@@ -681,7 +737,8 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ]
+        ],
+        "directory": "t_62"
     },
     {
         "messages": [
@@ -693,7 +750,8 @@
                 "role": "assistant",
                 "content": "53.750000"
             }
-        ]
+        ],
+        "directory": "t_63"
     },
     {
         "messages": [
@@ -705,7 +763,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_64"
     },
     {
         "messages": [
@@ -717,7 +776,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_66"
     },
     {
         "messages": [
@@ -729,7 +789,8 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ]
+        ],
+        "directory": "t_67"
     },
     {
         "messages": [
@@ -741,7 +802,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_68"
     },
     {
         "messages": [
@@ -753,7 +815,8 @@
                 "role": "assistant",
                 "content": "51.250000"
             }
-        ]
+        ],
+        "directory": "t_69"
     },
     {
         "messages": [
@@ -765,7 +828,8 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ]
+        ],
+        "directory": "t_70"
     },
     {
         "messages": [
@@ -777,7 +841,8 @@
                 "role": "assistant",
                 "content": "38.750000"
             }
-        ]
+        ],
+        "directory": "t_75"
     },
     {
         "messages": [
@@ -789,7 +854,8 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ]
+        ],
+        "directory": "t_76"
     },
     {
         "messages": [
@@ -801,7 +867,8 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ]
+        ],
+        "directory": "t_78"
     },
     {
         "messages": [
@@ -813,7 +880,8 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ]
+        ],
+        "directory": "t_79"
     },
     {
         "messages": [
@@ -825,7 +893,8 @@
                 "role": "assistant",
                 "content": "33.750000"
             }
-        ]
+        ],
+        "directory": "t_8"
     },
     {
         "messages": [
@@ -837,7 +906,8 @@
                 "role": "assistant",
                 "content": "50.000000"
             }
-        ]
+        ],
+        "directory": "t_81"
     },
     {
         "messages": [
@@ -849,7 +919,8 @@
                 "role": "assistant",
                 "content": "32.500000"
             }
-        ]
+        ],
+        "directory": "t_82"
     },
     {
         "messages": [
@@ -861,7 +932,8 @@
                 "role": "assistant",
                 "content": "76.250000"
             }
-        ]
+        ],
+        "directory": "t_85"
     },
     {
         "messages": [
@@ -873,7 +945,8 @@
                 "role": "assistant",
                 "content": "40.000000"
             }
-        ]
+        ],
+        "directory": "t_86"
     },
     {
         "messages": [
@@ -885,7 +958,8 @@
                 "role": "assistant",
                 "content": "52.500000"
             }
-        ]
+        ],
+        "directory": "t_87"
     },
     {
         "messages": [
@@ -897,7 +971,8 @@
                 "role": "assistant",
                 "content": "32.500000"
             }
-        ]
+        ],
+        "directory": "t_88"
     },
     {
         "messages": [
@@ -909,7 +984,8 @@
                 "role": "assistant",
                 "content": "36.250000"
             }
-        ]
+        ],
+        "directory": "t_89"
     },
     {
         "messages": [
@@ -921,7 +997,8 @@
                 "role": "assistant",
                 "content": "53.750000"
             }
-        ]
+        ],
+        "directory": "t_9"
     },
     {
         "messages": [
@@ -933,7 +1010,8 @@
                 "role": "assistant",
                 "content": "66.250000"
             }
-        ]
+        ],
+        "directory": "t_90"
     },
     {
         "messages": [
@@ -945,7 +1023,8 @@
                 "role": "assistant",
                 "content": "41.250000"
             }
-        ]
+        ],
+        "directory": "t_91"
     },
     {
         "messages": [
@@ -957,7 +1036,8 @@
                 "role": "assistant",
                 "content": "56.250000"
             }
-        ]
+        ],
+        "directory": "t_93"
     },
     {
         "messages": [
@@ -969,7 +1049,8 @@
                 "role": "assistant",
                 "content": "43.750000"
             }
-        ]
+        ],
+        "directory": "t_96"
     },
     {
         "messages": [
@@ -981,7 +1062,8 @@
                 "role": "assistant",
                 "content": "31.250000"
             }
-        ]
+        ],
+        "directory": "t_97"
     },
     {
         "messages": [
@@ -993,6 +1075,7 @@
                 "role": "assistant",
                 "content": "47.500000"
             }
-        ]
+        ],
+        "directory": "t_99"
     }
 ]

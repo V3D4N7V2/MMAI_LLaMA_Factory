@@ -9,7 +9,8 @@
         "expected": "41.250000",
         "audios": [
             "EATD-Corpus/v_10/combined_out.wav"
-        ]
+        ],
+        "directory": "v_10"
     },
     {
         "messages": [
@@ -21,7 +22,8 @@
         "expected": "51.250000",
         "audios": [
             "EATD-Corpus/v_103/combined_out.wav"
-        ]
+        ],
+        "directory": "v_103"
     },
     {
         "messages": [
@@ -33,7 +35,8 @@
         "expected": "62.500000",
         "audios": [
             "EATD-Corpus/v_104/combined_out.wav"
-        ]
+        ],
+        "directory": "v_104"
     },
     {
         "messages": [
@@ -45,7 +48,8 @@
         "expected": "46.250000",
         "audios": [
             "EATD-Corpus/v_105/combined_out.wav"
-        ]
+        ],
+        "directory": "v_105"
     },
     {
         "messages": [
@@ -57,7 +61,8 @@
         "expected": "42.500000",
         "audios": [
             "EATD-Corpus/v_106/combined_out.wav"
-        ]
+        ],
+        "directory": "v_106"
     },
     {
         "messages": [
@@ -69,7 +74,8 @@
         "expected": "37.500000",
         "audios": [
             "EATD-Corpus/v_11/combined_out.wav"
-        ]
+        ],
+        "directory": "v_11"
     },
     {
         "messages": [
@@ -81,7 +87,8 @@
         "expected": "31.250000",
         "audios": [
             "EATD-Corpus/v_12/combined_out.wav"
-        ]
+        ],
+        "directory": "v_12"
     },
     {
         "messages": [
@@ -93,7 +100,8 @@
         "expected": "36.250000",
         "audios": [
             "EATD-Corpus/v_13/combined_out.wav"
-        ]
+        ],
+        "directory": "v_13"
     },
     {
         "messages": [
@@ -105,7 +113,8 @@
         "expected": "36.250000",
         "audios": [
             "EATD-Corpus/v_15/combined_out.wav"
-        ]
+        ],
+        "directory": "v_15"
     },
     {
         "messages": [
@@ -117,7 +126,8 @@
         "expected": "47.500000",
         "audios": [
             "EATD-Corpus/v_16/combined_out.wav"
-        ]
+        ],
+        "directory": "v_16"
     },
     {
         "messages": [
@@ -129,7 +139,8 @@
         "expected": "38.750000",
         "audios": [
             "EATD-Corpus/v_17/combined_out.wav"
-        ]
+        ],
+        "directory": "v_17"
     },
     {
         "messages": [
@@ -141,7 +152,8 @@
         "expected": "37.500000",
         "audios": [
             "EATD-Corpus/v_18/combined_out.wav"
-        ]
+        ],
+        "directory": "v_18"
     },
     {
         "messages": [
@@ -153,7 +165,8 @@
         "expected": "36.250000",
         "audios": [
             "EATD-Corpus/v_19/combined_out.wav"
-        ]
+        ],
+        "directory": "v_19"
     },
     {
         "messages": [
@@ -165,7 +178,8 @@
         "expected": "55.000000",
         "audios": [
             "EATD-Corpus/v_2/combined_out.wav"
-        ]
+        ],
+        "directory": "v_2"
     },
     {
         "messages": [
@@ -177,7 +191,8 @@
         "expected": "52.500000",
         "audios": [
             "EATD-Corpus/v_20/combined_out.wav"
-        ]
+        ],
+        "directory": "v_20"
     },
     {
         "messages": [
@@ -189,7 +204,8 @@
         "expected": "50.000000",
         "audios": [
             "EATD-Corpus/v_21/combined_out.wav"
-        ]
+        ],
+        "directory": "v_21"
     },
     {
         "messages": [
@@ -201,7 +217,8 @@
         "expected": "38.750000",
         "audios": [
             "EATD-Corpus/v_22/combined_out.wav"
-        ]
+        ],
+        "directory": "v_22"
     },
     {
         "messages": [
@@ -213,7 +230,8 @@
         "expected": "38.750000",
         "audios": [
             "EATD-Corpus/v_23/combined_out.wav"
-        ]
+        ],
+        "directory": "v_23"
     },
     {
         "messages": [
@@ -225,7 +243,8 @@
         "expected": "55.000000",
         "audios": [
             "EATD-Corpus/v_24/combined_out.wav"
-        ]
+        ],
+        "directory": "v_24"
     },
     {
         "messages": [
@@ -237,7 +256,8 @@
         "expected": "31.250000",
         "audios": [
             "EATD-Corpus/v_25/combined_out.wav"
-        ]
+        ],
+        "directory": "v_25"
     },
     {
         "messages": [
@@ -249,7 +269,8 @@
         "expected": "55.000000",
         "audios": [
             "EATD-Corpus/v_27/combined_out.wav"
-        ]
+        ],
+        "directory": "v_27"
     },
     {
         "messages": [
@@ -261,7 +282,8 @@
         "expected": "43.750000",
         "audios": [
             "EATD-Corpus/v_28/combined_out.wav"
-        ]
+        ],
+        "directory": "v_28"
     },
     {
         "messages": [
@@ -273,7 +295,8 @@
         "expected": "46.250000",
         "audios": [
             "EATD-Corpus/v_29/combined_out.wav"
-        ]
+        ],
+        "directory": "v_29"
     },
     {
         "messages": [
@@ -285,7 +308,8 @@
         "expected": "37.500000",
         "audios": [
             "EATD-Corpus/v_30/combined_out.wav"
-        ]
+        ],
+        "directory": "v_30"
     },
     {
         "messages": [
@@ -297,7 +321,8 @@
         "expected": "48.750000",
         "audios": [
             "EATD-Corpus/v_31/combined_out.wav"
-        ]
+        ],
+        "directory": "v_31"
     },
     {
         "messages": [
@@ -309,7 +334,8 @@
         "expected": "46.250000",
         "audios": [
             "EATD-Corpus/v_32/combined_out.wav"
-        ]
+        ],
+        "directory": "v_32"
     },
     {
         "messages": [
@@ -321,7 +347,8 @@
         "expected": "41.250000",
         "audios": [
             "EATD-Corpus/v_36/combined_out.wav"
-        ]
+        ],
+        "directory": "v_36"
     },
     {
         "messages": [
@@ -333,7 +360,8 @@
         "expected": "58.750000",
         "audios": [
             "EATD-Corpus/v_37/combined_out.wav"
-        ]
+        ],
+        "directory": "v_37"
     },
     {
         "messages": [
@@ -345,7 +373,8 @@
         "expected": "81.250000",
         "audios": [
             "EATD-Corpus/v_39/combined_out.wav"
-        ]
+        ],
+        "directory": "v_39"
     },
     {
         "messages": [
@@ -357,7 +386,8 @@
         "expected": "26.250000",
         "audios": [
             "EATD-Corpus/v_4/combined_out.wav"
-        ]
+        ],
+        "directory": "v_4"
     },
     {
         "messages": [
@@ -369,7 +399,8 @@
         "expected": "41.250000",
         "audios": [
             "EATD-Corpus/v_41/combined_out.wav"
-        ]
+        ],
+        "directory": "v_41"
     },
     {
         "messages": [
@@ -381,7 +412,8 @@
         "expected": "32.500000",
         "audios": [
             "EATD-Corpus/v_42/combined_out.wav"
-        ]
+        ],
+        "directory": "v_42"
     },
     {
         "messages": [
@@ -393,7 +425,8 @@
         "expected": "30.000000",
         "audios": [
             "EATD-Corpus/v_43/combined_out.wav"
-        ]
+        ],
+        "directory": "v_43"
     },
     {
         "messages": [
@@ -405,7 +438,8 @@
         "expected": "52.500000",
         "audios": [
             "EATD-Corpus/v_45/combined_out.wav"
-        ]
+        ],
+        "directory": "v_45"
     },
     {
         "messages": [
@@ -417,7 +451,8 @@
         "expected": "36.250000",
         "audios": [
             "EATD-Corpus/v_47/combined_out.wav"
-        ]
+        ],
+        "directory": "v_47"
     },
     {
         "messages": [
@@ -429,7 +464,8 @@
         "expected": "50.000000",
         "audios": [
             "EATD-Corpus/v_48/combined_out.wav"
-        ]
+        ],
+        "directory": "v_48"
     },
     {
         "messages": [
@@ -441,7 +477,8 @@
         "expected": "50.000000",
         "audios": [
             "EATD-Corpus/v_49/combined_out.wav"
-        ]
+        ],
+        "directory": "v_49"
     },
     {
         "messages": [
@@ -453,7 +490,8 @@
         "expected": "42.500000",
         "audios": [
             "EATD-Corpus/v_5/combined_out.wav"
-        ]
+        ],
+        "directory": "v_5"
     },
     {
         "messages": [
@@ -465,7 +503,8 @@
         "expected": "41.250000",
         "audios": [
             "EATD-Corpus/v_51/combined_out.wav"
-        ]
+        ],
+        "directory": "v_51"
     },
     {
         "messages": [
@@ -477,7 +516,8 @@
         "expected": "30.000000",
         "audios": [
             "EATD-Corpus/v_52/combined_out.wav"
-        ]
+        ],
+        "directory": "v_52"
     },
     {
         "messages": [
@@ -489,7 +529,8 @@
         "expected": "45.000000",
         "audios": [
             "EATD-Corpus/v_53/combined_out.wav"
-        ]
+        ],
+        "directory": "v_53"
     },
     {
         "messages": [
@@ -501,7 +542,8 @@
         "expected": "51.250000",
         "audios": [
             "EATD-Corpus/v_55/combined_out.wav"
-        ]
+        ],
+        "directory": "v_55"
     },
     {
         "messages": [
@@ -513,7 +555,8 @@
         "expected": "38.750000",
         "audios": [
             "EATD-Corpus/v_56/combined_out.wav"
-        ]
+        ],
+        "directory": "v_56"
     },
     {
         "messages": [
@@ -525,7 +568,8 @@
         "expected": "47.500000",
         "audios": [
             "EATD-Corpus/v_57/combined_out.wav"
-        ]
+        ],
+        "directory": "v_57"
     },
     {
         "messages": [
@@ -537,7 +581,8 @@
         "expected": "46.250000",
         "audios": [
             "EATD-Corpus/v_58/combined_out.wav"
-        ]
+        ],
+        "directory": "v_58"
     },
     {
         "messages": [
@@ -549,7 +594,8 @@
         "expected": "43.750000",
         "audios": [
             "EATD-Corpus/v_61/combined_out.wav"
-        ]
+        ],
+        "directory": "v_61"
     },
     {
         "messages": [
@@ -561,7 +607,8 @@
         "expected": "37.500000",
         "audios": [
             "EATD-Corpus/v_62/combined_out.wav"
-        ]
+        ],
+        "directory": "v_62"
     },
     {
         "messages": [
@@ -573,7 +620,8 @@
         "expected": "42.500000",
         "audios": [
             "EATD-Corpus/v_63/combined_out.wav"
-        ]
+        ],
+        "directory": "v_63"
     },
     {
         "messages": [
@@ -585,7 +633,8 @@
         "expected": "51.250000",
         "audios": [
             "EATD-Corpus/v_64/combined_out.wav"
-        ]
+        ],
+        "directory": "v_64"
     },
     {
         "messages": [
@@ -597,7 +646,8 @@
         "expected": "52.500000",
         "audios": [
             "EATD-Corpus/v_65/combined_out.wav"
-        ]
+        ],
+        "directory": "v_65"
     },
     {
         "messages": [
@@ -609,7 +659,8 @@
         "expected": "27.500000",
         "audios": [
             "EATD-Corpus/v_66/combined_out.wav"
-        ]
+        ],
+        "directory": "v_66"
     },
     {
         "messages": [
@@ -621,7 +672,8 @@
         "expected": "31.250000",
         "audios": [
             "EATD-Corpus/v_67/combined_out.wav"
-        ]
+        ],
+        "directory": "v_67"
     },
     {
         "messages": [
@@ -633,7 +685,8 @@
         "expected": "41.250000",
         "audios": [
             "EATD-Corpus/v_69/combined_out.wav"
-        ]
+        ],
+        "directory": "v_69"
     },
     {
         "messages": [
@@ -645,7 +698,8 @@
         "expected": "45.000000",
         "audios": [
             "EATD-Corpus/v_7/combined_out.wav"
-        ]
+        ],
+        "directory": "v_7"
     },
     {
         "messages": [
@@ -657,7 +711,8 @@
         "expected": "46.250000",
         "audios": [
             "EATD-Corpus/v_70/combined_out.wav"
-        ]
+        ],
+        "directory": "v_70"
     },
     {
         "messages": [
@@ -669,7 +724,8 @@
         "expected": "53.750000",
         "audios": [
             "EATD-Corpus/v_71/combined_out.wav"
-        ]
+        ],
+        "directory": "v_71"
     },
     {
         "messages": [
@@ -681,7 +737,8 @@
         "expected": "43.750000",
         "audios": [
             "EATD-Corpus/v_72/combined_out.wav"
-        ]
+        ],
+        "directory": "v_72"
     },
     {
         "messages": [
@@ -693,7 +750,8 @@
         "expected": "45.000000",
         "audios": [
             "EATD-Corpus/v_73/combined_out.wav"
-        ]
+        ],
+        "directory": "v_73"
     },
     {
         "messages": [
@@ -705,7 +763,8 @@
         "expected": "37.500000",
         "audios": [
             "EATD-Corpus/v_74/combined_out.wav"
-        ]
+        ],
+        "directory": "v_74"
     },
     {
         "messages": [
@@ -717,7 +776,8 @@
         "expected": "43.750000",
         "audios": [
             "EATD-Corpus/v_75/combined_out.wav"
-        ]
+        ],
+        "directory": "v_75"
     },
     {
         "messages": [
@@ -729,7 +789,8 @@
         "expected": "37.500000",
         "audios": [
             "EATD-Corpus/v_76/combined_out.wav"
-        ]
+        ],
+        "directory": "v_76"
     },
     {
         "messages": [
@@ -741,7 +802,8 @@
         "expected": "48.750000",
         "audios": [
             "EATD-Corpus/v_77/combined_out.wav"
-        ]
+        ],
+        "directory": "v_77"
     },
     {
         "messages": [
@@ -753,7 +815,8 @@
         "expected": "50.000000",
         "audios": [
             "EATD-Corpus/v_79/combined_out.wav"
-        ]
+        ],
+        "directory": "v_79"
     },
     {
         "messages": [
@@ -765,7 +828,8 @@
         "expected": "43.750000",
         "audios": [
             "EATD-Corpus/v_8/combined_out.wav"
-        ]
+        ],
+        "directory": "v_8"
     },
     {
         "messages": [
@@ -777,7 +841,8 @@
         "expected": "48.750000",
         "audios": [
             "EATD-Corpus/v_81/combined_out.wav"
-        ]
+        ],
+        "directory": "v_81"
     },
     {
         "messages": [
@@ -789,7 +854,8 @@
         "expected": "33.750000",
         "audios": [
             "EATD-Corpus/v_82/combined_out.wav"
-        ]
+        ],
+        "directory": "v_82"
     },
     {
         "messages": [
@@ -801,7 +867,8 @@
         "expected": "47.500000",
         "audios": [
             "EATD-Corpus/v_83/combined_out.wav"
-        ]
+        ],
+        "directory": "v_83"
     },
     {
         "messages": [
@@ -813,7 +880,8 @@
         "expected": "58.750000",
         "audios": [
             "EATD-Corpus/v_84/combined_out.wav"
-        ]
+        ],
+        "directory": "v_84"
     },
     {
         "messages": [
@@ -825,7 +893,8 @@
         "expected": "55.000000",
         "audios": [
             "EATD-Corpus/v_86/combined_out.wav"
-        ]
+        ],
+        "directory": "v_86"
     },
     {
         "messages": [
@@ -837,7 +906,8 @@
         "expected": "50.000000",
         "audios": [
             "EATD-Corpus/v_87/combined_out.wav"
-        ]
+        ],
+        "directory": "v_87"
     },
     {
         "messages": [
@@ -849,7 +919,8 @@
         "expected": "50.000000",
         "audios": [
             "EATD-Corpus/v_88/combined_out.wav"
-        ]
+        ],
+        "directory": "v_88"
     },
     {
         "messages": [
@@ -861,7 +932,8 @@
         "expected": "51.250000",
         "audios": [
             "EATD-Corpus/v_89/combined_out.wav"
-        ]
+        ],
+        "directory": "v_89"
     },
     {
         "messages": [
@@ -873,7 +945,8 @@
         "expected": "41.250000",
         "audios": [
             "EATD-Corpus/v_9/combined_out.wav"
-        ]
+        ],
+        "directory": "v_9"
     },
     {
         "messages": [
@@ -885,7 +958,8 @@
         "expected": "52.500000",
         "audios": [
             "EATD-Corpus/v_90/combined_out.wav"
-        ]
+        ],
+        "directory": "v_90"
     },
     {
         "messages": [
@@ -897,7 +971,8 @@
         "expected": "51.250000",
         "audios": [
             "EATD-Corpus/v_94/combined_out.wav"
-        ]
+        ],
+        "directory": "v_94"
     },
     {
         "messages": [
@@ -909,7 +984,8 @@
         "expected": "53.750000",
         "audios": [
             "EATD-Corpus/v_96/combined_out.wav"
-        ]
+        ],
+        "directory": "v_96"
     },
     {
         "messages": [
@@ -921,7 +997,8 @@
         "expected": "48.750000",
         "audios": [
             "EATD-Corpus/v_97/combined_out.wav"
-        ]
+        ],
+        "directory": "v_97"
     },
     {
         "messages": [
@@ -933,7 +1010,8 @@
         "expected": "65.000000",
         "audios": [
             "EATD-Corpus/v_98/combined_out.wav"
-        ]
+        ],
+        "directory": "v_98"
     },
     {
         "messages": [
@@ -945,6 +1023,7 @@
         "expected": "32.500000",
         "audios": [
             "EATD-Corpus/v_99/combined_out.wav"
-        ]
+        ],
+        "directory": "v_99"
     }
 ]
