@@ -4,7 +4,6 @@
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages"
-      // ,"audios": "audios"
     },
     "tags": {
       "role_tag": "role",
