@@ -156,6 +156,8 @@ def process_directories(isTest=False, has_audio=False):
 if __name__ == "__main__":
     process_directories(False)
     process_directories(True)
+    process_directories(True, True)
+    process_directories(False, True)
     print("Done")
     os.chdir(cwd)
     time.sleep(5)
