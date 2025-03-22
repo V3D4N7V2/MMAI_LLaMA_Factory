@@ -32,7 +32,7 @@ def combine_wav_files_with_silence(file_paths, output_path, silence_duration_ms=
 # combine_wav_files_with_silence(wav_files, output_file)
 
 
-def process_directories(isTest=False):
+def process_directories(isTest=False, has_audio=False):
     results = []
     
     # Get all directories
@@ -92,7 +92,8 @@ def process_directories(isTest=False):
         # user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive + ' \n Neutral Answer Transcription:' + neutral
 
         user_prompt = f'Answer Audio: <audio> \nNegative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
-        user_prompt_no_audio = f'Negative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
+
+        if not has_audio: user_prompt_no_audio = f'Negative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
         # user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
         # The user
         system_prompt = "You are a therapist. I will give you an audio with 3 answers, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
@@ -116,6 +117,9 @@ def process_directories(isTest=False):
                 # ]
                 # "audios": [f'EATD-Corpus/{directory}/combined_out.wav']
             }
+            if has_audio:
+                # "audios": [f'EATD-Corpus/{directory}/combined_out.wav'],
+                message_json['audios'] = [f'EATD-Corpus/{directory}/combined_out.wav']
 
         if isTest:
             message_json = {
@@ -129,15 +133,25 @@ def process_directories(isTest=False):
                 # , f'EATD-Corpus/{directory}/positive_out.wav' 
                 # # , f'EATD-Corpus/{directory}/neutral_out.wav'
                 # ],
-                # "audios": [f'EATD-Corpus/{directory}/combined_out.wav'],
                 "expected": expected_prediction
             }
+            if has_audio:
+                # "audios": [f'EATD-Corpus/{directory}/combined_out.wav'],
+                message_json['audios'] = [f'EATD-Corpus/{directory}/combined_out.wav']
 
         results.append(message_json)
 
         print("Processed directory:", directory)
-
-        json.dump(results, open(f'{"test" if isTest else "train"}_prompt.json', 'w', encoding="utf-8"), indent=4)
+        filename = ''
+        if isTest:
+            filename += 'test'
+        else:
+            filename += 'train'
+        if has_audio:
+            filename += '_audio'
+        else:
+            filename += '_no_audio'
+        json.dump(results, open(f'{filename}_prompt.json', 'w', encoding="utf-8"), indent=4)
 
 if __name__ == "__main__":
     process_directories(False)

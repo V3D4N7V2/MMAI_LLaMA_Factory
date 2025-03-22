@@ -1,6 +1,20 @@
 { 
+  "mmai_audio_data": {
+    "file_name": "train_audio_prompt.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "audios": "audios"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "mmai_data": {
-    "file_name": "train_prompt.json",
+    "file_name": "train_no_audio_prompt.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages"
