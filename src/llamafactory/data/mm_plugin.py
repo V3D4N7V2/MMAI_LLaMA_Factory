@@ -249,7 +249,7 @@ class MMPluginMixin:
                 raise ValueError(f"Expect input is a list of audios, but got {type(audio)}.")
 
             results.append(audio)
-
+        print(f"Audio processing complete. Number of audios: {len(results)}")
         return results
 
     def _get_mm_inputs(
