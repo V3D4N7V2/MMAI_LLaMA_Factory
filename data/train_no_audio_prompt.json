@@ -7,7 +7,7 @@
             },
             {
                 "role": "assistant",
-                "content": "46.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_1"
@@ -20,7 +20,7 @@
             },
             {
                 "role": "assistant",
-                "content": "37.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_10"
@@ -33,7 +33,7 @@
             },
             {
                 "role": "assistant",
-                "content": "52.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_101"
@@ -46,7 +46,7 @@
             },
             {
                 "role": "assistant",
-                "content": "82.500000"
+                "content": "Severely Depressed"
             }
         ],
         "directory": "t_102"
@@ -59,7 +59,7 @@
             },
             {
                 "role": "assistant",
-                "content": "51.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_103"
@@ -72,7 +72,7 @@
             },
             {
                 "role": "assistant",
-                "content": "56.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_104"
@@ -85,7 +85,7 @@
             },
             {
                 "role": "assistant",
-                "content": "68.750000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_105"
@@ -98,7 +98,7 @@
             },
             {
                 "role": "assistant",
-                "content": "27.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_106"
@@ -111,7 +111,7 @@
             },
             {
                 "role": "assistant",
-                "content": "43.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_107"
@@ -124,7 +124,7 @@
             },
             {
                 "role": "assistant",
-                "content": "71.250000"
+                "content": "Severely Depressed"
             }
         ],
         "directory": "t_109"
@@ -137,7 +137,7 @@
             },
             {
                 "role": "assistant",
-                "content": "47.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_11"
@@ -150,7 +150,7 @@
             },
             {
                 "role": "assistant",
-                "content": "68.750000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_111"
@@ -163,7 +163,7 @@
             },
             {
                 "role": "assistant",
-                "content": "40.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_12"
@@ -176,7 +176,7 @@
             },
             {
                 "role": "assistant",
-                "content": "36.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_13"
@@ -189,7 +189,7 @@
             },
             {
                 "role": "assistant",
-                "content": "43.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_14"
@@ -202,7 +202,7 @@
             },
             {
                 "role": "assistant",
-                "content": "42.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_15"
@@ -215,7 +215,7 @@
             },
             {
                 "role": "assistant",
-                "content": "46.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_16"
@@ -228,7 +228,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_18"
@@ -241,7 +241,7 @@
             },
             {
                 "role": "assistant",
-                "content": "48.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_2"
@@ -254,7 +254,7 @@
             },
             {
                 "role": "assistant",
-                "content": "63.750000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_20"
@@ -267,7 +267,7 @@
             },
             {
                 "role": "assistant",
-                "content": "40.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_21"
@@ -280,7 +280,7 @@
             },
             {
                 "role": "assistant",
-                "content": "62.500000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_22"
@@ -293,7 +293,7 @@
             },
             {
                 "role": "assistant",
-                "content": "61.250000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_26"
@@ -306,7 +306,7 @@
             },
             {
                 "role": "assistant",
-                "content": "43.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_27"
@@ -319,7 +319,7 @@
             },
             {
                 "role": "assistant",
-                "content": "37.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_28"
@@ -332,7 +332,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_29"
@@ -345,7 +345,7 @@
             },
             {
                 "role": "assistant",
-                "content": "56.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_3"
@@ -358,7 +358,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_30"
@@ -371,7 +371,7 @@
             },
             {
                 "role": "assistant",
-                "content": "60.000000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_31"
@@ -384,7 +384,7 @@
             },
             {
                 "role": "assistant",
-                "content": "52.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_32"
@@ -397,7 +397,7 @@
             },
             {
                 "role": "assistant",
-                "content": "32.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_33"
@@ -410,7 +410,7 @@
             },
             {
                 "role": "assistant",
-                "content": "50.000000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_34"
@@ -423,7 +423,7 @@
             },
             {
                 "role": "assistant",
-                "content": "42.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_35"
@@ -436,7 +436,7 @@
             },
             {
                 "role": "assistant",
-                "content": "47.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_36"
@@ -449,7 +449,7 @@
             },
             {
                 "role": "assistant",
-                "content": "40.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_38"
@@ -462,7 +462,7 @@
             },
             {
                 "role": "assistant",
-                "content": "48.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_39"
@@ -475,7 +475,7 @@
             },
             {
                 "role": "assistant",
-                "content": "36.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_40"
@@ -488,7 +488,7 @@
             },
             {
                 "role": "assistant",
-                "content": "40.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_41"
@@ -501,7 +501,7 @@
             },
             {
                 "role": "assistant",
-                "content": "37.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_42"
@@ -514,7 +514,7 @@
             },
             {
                 "role": "assistant",
-                "content": "53.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_43"
@@ -527,7 +527,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_44"
@@ -540,7 +540,7 @@
             },
             {
                 "role": "assistant",
-                "content": "51.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_45"
@@ -553,7 +553,7 @@
             },
             {
                 "role": "assistant",
-                "content": "43.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_46"
@@ -566,7 +566,7 @@
             },
             {
                 "role": "assistant",
-                "content": "48.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_47"
@@ -579,7 +579,7 @@
             },
             {
                 "role": "assistant",
-                "content": "45.000000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_48"
@@ -592,7 +592,7 @@
             },
             {
                 "role": "assistant",
-                "content": "62.500000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_5"
@@ -605,7 +605,7 @@
             },
             {
                 "role": "assistant",
-                "content": "31.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_51"
@@ -618,7 +618,7 @@
             },
             {
                 "role": "assistant",
-                "content": "33.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_53"
@@ -631,7 +631,7 @@
             },
             {
                 "role": "assistant",
-                "content": "25.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_54"
@@ -644,7 +644,7 @@
             },
             {
                 "role": "assistant",
-                "content": "28.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_55"
@@ -657,7 +657,7 @@
             },
             {
                 "role": "assistant",
-                "content": "58.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_56"
@@ -670,7 +670,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_58"
@@ -683,7 +683,7 @@
             },
             {
                 "role": "assistant",
-                "content": "45.000000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_59"
@@ -696,7 +696,7 @@
             },
             {
                 "role": "assistant",
-                "content": "45.000000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_6"
@@ -709,7 +709,7 @@
             },
             {
                 "role": "assistant",
-                "content": "67.500000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_60"
@@ -722,7 +722,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_61"
@@ -735,7 +735,7 @@
             },
             {
                 "role": "assistant",
-                "content": "40.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_62"
@@ -748,7 +748,7 @@
             },
             {
                 "role": "assistant",
-                "content": "53.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_63"
@@ -761,7 +761,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_64"
@@ -774,7 +774,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_66"
@@ -787,7 +787,7 @@
             },
             {
                 "role": "assistant",
-                "content": "47.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_67"
@@ -800,7 +800,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_68"
@@ -813,7 +813,7 @@
             },
             {
                 "role": "assistant",
-                "content": "51.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_69"
@@ -826,7 +826,7 @@
             },
             {
                 "role": "assistant",
-                "content": "33.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_70"
@@ -839,7 +839,7 @@
             },
             {
                 "role": "assistant",
-                "content": "38.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_75"
@@ -852,7 +852,7 @@
             },
             {
                 "role": "assistant",
-                "content": "36.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_76"
@@ -865,7 +865,7 @@
             },
             {
                 "role": "assistant",
-                "content": "33.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_78"
@@ -878,7 +878,7 @@
             },
             {
                 "role": "assistant",
-                "content": "43.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_79"
@@ -891,7 +891,7 @@
             },
             {
                 "role": "assistant",
-                "content": "33.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_8"
@@ -904,7 +904,7 @@
             },
             {
                 "role": "assistant",
-                "content": "50.000000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_81"
@@ -917,7 +917,7 @@
             },
             {
                 "role": "assistant",
-                "content": "32.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_82"
@@ -930,7 +930,7 @@
             },
             {
                 "role": "assistant",
-                "content": "76.250000"
+                "content": "Severely Depressed"
             }
         ],
         "directory": "t_85"
@@ -943,7 +943,7 @@
             },
             {
                 "role": "assistant",
-                "content": "40.000000"
+                "content": "Normal"
             }
         ],
         "directory": "t_86"
@@ -956,7 +956,7 @@
             },
             {
                 "role": "assistant",
-                "content": "52.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_87"
@@ -969,7 +969,7 @@
             },
             {
                 "role": "assistant",
-                "content": "32.500000"
+                "content": "Normal"
             }
         ],
         "directory": "t_88"
@@ -982,7 +982,7 @@
             },
             {
                 "role": "assistant",
-                "content": "36.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_89"
@@ -995,7 +995,7 @@
             },
             {
                 "role": "assistant",
-                "content": "53.750000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_9"
@@ -1008,7 +1008,7 @@
             },
             {
                 "role": "assistant",
-                "content": "66.250000"
+                "content": "Moderately Depressed"
             }
         ],
         "directory": "t_90"
@@ -1021,7 +1021,7 @@
             },
             {
                 "role": "assistant",
-                "content": "41.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_91"
@@ -1034,7 +1034,7 @@
             },
             {
                 "role": "assistant",
-                "content": "56.250000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_93"
@@ -1047,7 +1047,7 @@
             },
             {
                 "role": "assistant",
-                "content": "43.750000"
+                "content": "Normal"
             }
         ],
         "directory": "t_96"
@@ -1060,7 +1060,7 @@
             },
             {
                 "role": "assistant",
-                "content": "31.250000"
+                "content": "Normal"
             }
         ],
         "directory": "t_97"
@@ -1073,7 +1073,7 @@
             },
             {
                 "role": "assistant",
-                "content": "47.500000"
+                "content": "Mildly Depressed"
             }
         ],
         "directory": "t_99"

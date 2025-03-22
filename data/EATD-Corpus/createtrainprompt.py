@@ -33,7 +33,7 @@ def combine_wav_files_with_silence(file_paths, output_path, silence_duration_ms=
 
 def sds_category(score):
     try:
-        score = int(score)
+        score = float(score)
     except:
         return score
     if score < 20:
