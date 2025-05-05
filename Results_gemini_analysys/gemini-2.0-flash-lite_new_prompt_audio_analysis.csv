@@ -1,0 +1,163 @@
+Index,Q3
+t_1,Normal
+t_10,Normal
+t_101,Mildly Depressed
+t_102,Mildly Depressed
+t_103,Mildly Depressed
+t_104,Mildly Depressed
+t_105,Normal
+t_106,Normal
+t_107,Mildly Depressed
+t_109,Mildly Depressed
+t_11,Normal
+t_111,Moderately Depressed
+t_12,Normal
+t_13,Normal
+t_14,Normal
+t_15,Normal
+t_16,Normal
+t_18,Mildly Depressed
+t_2,Mildly Depressed
+t_20,"Based on the audio and the previous conversations, it is impossible to determine with certainty whether the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed. The information provided is insufficient for a diagnosis. The analysis indicates mixed emotions, including potential frustration and optimism, but does not provide enough details regarding the duration, severity, and impact of any potential negative feelings on the speaker's daily life or functioning. A professional evaluation would be required to make that determination."
+t_21,Mildly Depressed
+t_22,"Based on the provided audio snippets, transcripts, and our conversation, and while acknowledging I cannot provide a diagnosis, the speaker appears to be **Normal**."
+t_26,Mildly Depressed
+t_27,Normal
+t_28,Normal
+t_29,Normal
+t_3,Mildly Depressed
+t_30,Mildly Depressed
+t_31,Mildly Depressed
+t_32,Normal
+t_33,Mildly Depressed
+t_34,Normal
+t_35,Normal
+t_36,Normal
+t_38,Normal
+t_39,Mildly Depressed
+t_40,Normal
+t_41,Mildly Depressed
+t_42,Mildly Depressed
+t_43,Mildly Depressed
+t_44,Normal
+t_45,Normal
+t_46,Mildly Depressed
+t_47,Mildly Depressed
+t_48,Mildly Depressed
+t_5,Normal
+t_51,Mildly Depressed
+t_53,"Based on the audio analysis and transcripts, the speaker appears to be **Normal**."
+t_54,Mildly Depressed
+t_55,"Based on the audio and the past conversation, I assess the speaker to be **Normal**."
+t_56,Normal
+t_58,Mildly Depressed
+t_59,Mildly Depressed
+t_6,Mildly Depressed
+t_60,Mildly Depressed
+t_61,Mildly Depressed
+t_62,Normal
+t_63,Mildly Depressed
+t_64,Mildly Depressed.
+t_66,Normal
+t_67,Mildly Depressed
+t_68,Normal
+t_69,Mildly Depressed
+t_70,Normal
+t_75,Normal
+t_76,Normal
+t_78,Mildly Depressed
+t_79,Normal
+t_8,Mildly Depressed
+t_81,Mildly Depressed
+t_82,Mildly Depressed
+t_85,Mildly Depressed
+t_86,Mildly Depressed
+t_87,Mildly Depressed
+t_88,Normal
+t_89,Normal
+t_9,Normal
+t_90,"Based on the audio and the transcript, I would assess the speaker as **Normal**."
+t_91,Normal
+t_93,Normal
+t_96,"Based on the audio and the past conversation, I would classify the speaker as **Normal**."
+t_97,Normal
+t_99,"Based on the limited audio and transcript data, it is impossible to make a reliable determination about the speaker's level of depression. The analysis shows the speaker experiencing a range of emotions, but this is not enough information to establish a clinical diagnosis."
+v_10,Mildly Depressed
+v_103,Mildly Depressed
+v_104,Mildly Depressed
+v_105,Mildly Depressed
+v_106,"Based on the provided audio and transcript, and considering my limitations as an AI, I would assess the speaker's state as: **Normal.**"
+v_11,"Based on the provided audio, transcript, and our previous conversations, I cannot definitively classify the speaker as Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed. The data is insufficient for a diagnosis."
+v_12,Mildly Depressed
+v_13,Mildly Depressed
+v_15,Mildly Depressed
+v_16,"Based on the provided audio, transcripts, and our previous conversations, I cannot determine a definitive level of depression. The data suggests:  *   **Anxiety and insomnia:** This can be present in various conditions, not exclusively depression. *   **Enjoyment and positive relationships:** These are protective factors, often *not* present in more severe depression. *   **Tone and language:** The overall tone doesn't indicate severe distress.  Therefore, I cannot provide an informed answer to the question without further information."
+v_17,Normal
+v_18,Normal
+v_19,Mildly Depressed
+v_2,Mildly Depressed
+v_20,Mildly Depressed
+v_21,Mildly Depressed
+v_22,Mildly Depressed
+v_23,Normal
+v_24,Mildly Depressed
+v_25,Mildly Depressed
+v_27,Mildly Depressed
+v_28,Normal
+v_29,Mildly Depressed
+v_30,Mildly Depressed
+v_31,Mildly Depressed
+v_32,Mildly Depressed
+v_36,Normal
+v_37,Mildly Depressed
+v_39,Mildly Depressed
+v_4,Mildly Depressed
+v_41,Mildly Depressed
+v_42,Normal
+v_43,Mildly Depressed
+v_45,Normal
+v_47,Normal
+v_48,Mildly Depressed
+v_49,Mildly Depressed
+v_5,Mildly Depressed
+v_51,"Based on the provided audio snippets, the transcript, and the information we've gathered, I would classify the speaker as **Normal.**"
+v_52,Normal
+v_53,Mildly Depressed
+v_55,Mildly Depressed
+v_56,Mildly Depressed
+v_57,Mildly Depressed
+v_58,Mildly Depressed
+v_61,Mildly Depressed
+v_62,Normal
+v_63,Mildly Depressed
+v_64,Normal
+v_65,Normal
+v_66,Normal
+v_67,Normal
+v_69,"Based on the limited audio snippets and transcript information provided, it is not possible to determine the speaker's mental state (Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed)."
+v_7,Normal
+v_70,Mildly Depressed
+v_71,Mildly Depressed
+v_72,Mildly Depressed
+v_73,Normal
+v_74,Mildly Depressed
+v_75,Normal
+v_76,Mildly Depressed
+v_77,Mildly Depressed
+v_79,Mildly Depressed
+v_8,Normal
+v_81,Normal
+v_82,Normal
+v_83,"Based on the audio analysis and previous conversations, I cannot determine with certainty whether the speaker is normal, mildly depressed, moderately depressed, or severely depressed. I am an AI and not a mental health professional. Diagnoses of this nature require a comprehensive evaluation by a qualified expert."
+v_84,Mildly Depressed
+v_86,Mildly Depressed
+v_87,Normal
+v_88,Mildly Depressed
+v_89,Normal
+v_9,Mildly Depressed
+v_90,Normal
+v_94,Normal
+v_96,Mildly Depressed
+v_97,Normal
+v_98,Mildly Depressed
+v_99,Mildly Depressed

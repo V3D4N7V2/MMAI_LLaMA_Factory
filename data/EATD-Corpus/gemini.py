@@ -91,10 +91,7 @@ def process_directory(directory, isTest=False):
     
     # Define a system instruction for the model similar to your original code.
     system_prompt = (
-        "You are a therapist. I will provide you with 3 audio recordings along with their transcriptions. "
-        "Based on the audio responses, predict the SDS (Zung Self-Rating Depression Scale) score. "
-        "The scale is as follows: 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), "
-        "70+ (Severe Depression). Only output a number."
+        "You are a therapist. I will provide you with 3 audio recording transcripts. Based on the audio responses, predict the SDS (Zung Self-Rating Depression Scale) score. The scale is as follows: 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), 70+ (Severe Depression). Output the Level of Depression as either Normal, Mild, Moderate or Severe. 
     )
 
     negative_audio = client.files.upload(file=negative_audio_path)
@@ -154,7 +151,8 @@ def main():
                 results.append(result)
     
     # Save results to a CSV file
-    output_filename = "results_gemini_2.0_flash_audio.csv"
+    datetime_str = time.strftime("%Y%m%d-%H%M%S")
+    output_filename = f"results_gemini_2.0_flash_audio{datetime_str}.csv"
     with open(output_filename, "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = ["directory", "predicted_sds", "expected_sds"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)

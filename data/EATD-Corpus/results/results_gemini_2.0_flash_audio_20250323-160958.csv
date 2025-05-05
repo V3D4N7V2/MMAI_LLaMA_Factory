@@ -1,0 +1,375 @@
+instance_id,response,expected,message
+v_10,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person expresses sadness and frustration related to his research in the first audio. He speaks positively of his friend in the second audio. The person speaks neutrally in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_103,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Neutral in the first audio. Negative in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Mildly Depressed"
+v_104,Mildly Depressed,Moderately Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_105,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_106,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_11,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds like they are expressing relief in the first audio. Happy in the second audio, and expressing dislike in the third audio. I would say that the person is normal.
+
+Therefore final output is: 
+
+Normal"
+v_12,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is Negative in the first audio, Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_13,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person is negative in the first audio, positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_15,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds Sad in the first audio. Relaxed in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_16,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person expresses anxiety and frustration regarding insomnia in the first audio. In the second audio, the person expresses positive feelings towards their close friend. In the third audio, the person expresses that they feel children are ""cute"" and ""fun"". I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_17,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person is Neutral in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is normal. 
+
+Therefore final output is: 
+        
+Normal"
+v_18,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds upset in the first audio, Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_19,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person is Neutral in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is normal.
+
+Therefore final output is: 
+Normal"
+v_2,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person seems to be trying to suppress negative emotions in the first audio, finds joy in gaming in the second audio, and expresses a preference for easy and enjoyable activities in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_20,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Mildly Depressed"
+v_21,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person is upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_22,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person is Negative in the first audio, Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_23,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person seems unhappy in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_24,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is regretful in the first audio. Happy in the second audio, and is okay in the third audio. I would say that the person is mildly depressed.
+
+Mildly Depressed"
+v_25,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person seems Negative in the first audio, Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_27,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person expresses negative sentiments about insomnia in the first audio, positive sentiments about food in the second audio, and neutral sentiments about passing time in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_28,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person is upset in the first audio, Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Mildly Depressed"
+v_29,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The first audio seems to express a sense of being troubled and seeking coping mechanisms, indicating negative sentiment. The second audio expresses positive sentiment and gratitude towards the father. The third audio is neutral, talking about dreams. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_30,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person is regretting something in the first audio, Happy in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_31,Normally Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Neutral in all three audios. I would say that the person is normal.
+
+Therefore final output is: 
+
+Normal"
+v_32,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The first audio expresses sadness and disappointment about exam results. The second audio expresses happiness about passing a driving test. The third audio expresses a neutral tone while describing leisure and study habits. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_36,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is Sad in the first audio. Positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_37,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio, Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_39,Mildly Depressed,Severely Depressed,"I have analyzed the audio files, the person is Sad in the first audio. Neutral in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_4,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_41,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person is Negative in the first audio, Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_42,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is upset in the first audio, Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_43,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person seems to be a bit isolated in the first audio. Happy in the second audio, and happy in the third audio. I would say that the person is normal.
+
+Therefore final output is: 
+        
+Normal"
+v_45,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is slightly upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed. 
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_47,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person is Neutral in the first audio. Happy in the second audio, and Neutral in the third audio. I would say that the person is normal.
+
+Therefore final output is: 
+
+Normal"
+v_48,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_49,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_5,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is negative in the first audio. Positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_51,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_52,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds relatively neutral in the first audio, happy in the second audio, and neutral in the third audio. I would say that the person is normal.
+Therefore final output is: 
+Normal"
+v_53,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_55,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person seems sad in the first audio. The person is happy about his holidays but still worried in the second audio. In the third audio, the person admires kids, it can be considered a neutral state. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_56,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_57,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_58,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is negative in the first audio, happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Mildly Depressed."
+v_61,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is showing symptoms of sadness in the first audio. Expressing happiness in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_62,Normally Depressed,Normally Depressed,"I have analyzed the audio files, the person is slightly negative in the first audio as they talk about not sleeping. Positive in the second audio, as they are talking about their mother. And neutral in the third audio as they are describing their family. I would say that the person is normal.
+
+Therefore final output is: 
+Normal"
+v_63,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person expresses negative feelings in the first audio, positive feelings in the second audio, and a neutral stance in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_64,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person is frustrated in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person has some depressive tendencies.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_65,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Sad in the first audio. Happy in the second audio, and Neutral in the third audio. I would say that the person is Mildly Depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_66,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Mildly Depressed"
+v_67,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is negative in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_69,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds upset in the first audio. Neutral in the second audio, and neutral in the third audio as well. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_7,Normally Depressed,Mildly Depressed,"I have analyzed the audio files, the person sounds neutral in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is normal.
+
+Therefore final output is: 
+        
+Normal"
+v_70,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person sounds disappointed in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_71,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is unhappy in the first audio. Neutral in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed
+Negative transcription: I think the most unhappy thing uh was that I’ve broken with my friend uh yeah that’s it
+Positive transcription: When I get relaxed I’d like to play games because I get into a real it’s a world that you can craft uh what you want you can do everything and without any pressure or without any responsibility so so so you just can you can do the thing that you’re they’re not do the real world
+Neutral transcription: Uh I think the most impressive thing I’d do is work on the beach when it’s sunset it’s very beautiful when it’s sunset the sky becomes reddish and you can just watch the sea just watch the horizon horizons you will have a feeling of being relaxed you will feel that the world is so big and you are so small so mhm so want to experience what you what’s your your trouble is just a a piece of the world it’s does not matter and it make you relaxed so you will get better to face the future"
+v_72,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person expresses feelings of sadness and loneliness in the first audio. The second audio expresses positive feelings and the third audio expresses neutral feelings. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_73,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_74,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person seems worried in the first audio, happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_75,Normally Depressed,Normally Depressed,"I have analyzed the audio files. The person is seemingly normal in the first audio, Happy in the second audio, and Neutral in the third audio. I would say that the person is normal.
+
+Therefore final output is: 
+
+Normal"
+v_76,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_77,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is upset in the first audio. Neutral in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_79,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Upset in the first audio. Neutral in the second audio, and Happy in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_8,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person sounds unhappy in the first audio. Neutral in the second audio, and slightly motivated in the third audio. I would say that the person is mildly depressed. Therefore final output is: Mildly Depressed."
+v_81,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person seems upset in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed. 
+
+Mildly Depressed"
+v_82,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The person expresses regret in the first audio, indicates relaxation and enjoyment in the second audio, and shows gratitude and appreciation for family support in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_83,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_84,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person is negative in the first audio, positive in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_86,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Anxious in the first audio. Hopeful in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_87,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Negative in the first audio. Positive in the second audio, and Neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+        
+Mildly Depressed"
+v_88,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is sad in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_89,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is negative in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_9,Mildly Depressed,Normally Depressed,"I have analyzed the audio files. The first audio is Negative, the second is Positive and the third is Neutral. I would say that the person is mildly depressed.
+
+Mildly Depressed"
+v_90,Normally Depressed,Mildly Depressed,"I have analyzed the audio files, the person is Neutral in the first audio. Happy in the second audio, and Neutral in the third audio. I would say that the person is normal. 
+
+Therefore final output is:
+
+Normal"
+v_94,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files. The person seems to be making an effort to control their emotions in the first audio, happy to workout in the gym in the second audio, and expressing their preferences for kids in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_96,Mildly Depressed,Mildly Depressed,"I have analyzed the audio files, the person is regretful in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed.
+
+Therefore final output is: 
+
+Mildly Depressed"
+v_97,Normally Depressed,Mildly Depressed,"I have analyzed the audio files, the person is neutral in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is Normal.
+
+Therefore final output is: 
+
+Normal"
+v_98,Normally Depressed,Moderately Depressed,"I have analyzed the audio files, the person is Neutral in the first audio. Neutral in the second audio, and Neutral in the third audio. I would say that the person is Normal.
+
+Therefore final output is: 
+        
+Normal"
+v_99,Mildly Depressed,Normally Depressed,"I have analyzed the audio files, the person is neutral in the first audio. Happy in the second audio, and neutral in the third audio. I would say that the person is mildly depressed. 
+
+Therefore final output is: 
+
+Mildly Depressed"

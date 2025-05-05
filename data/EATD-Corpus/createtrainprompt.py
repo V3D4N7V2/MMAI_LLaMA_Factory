@@ -106,12 +106,23 @@ def process_directories(isTest=False, has_audio=False):
         # user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive # + ' \n Neutral Answer: <audio> \nTranscription:' + neutral
         # user_prompt =  "Negative Answer: <audio> \nTranscription:" + negative + ' \nPositive Answer: <audio> \nTranscription:' + positive + ' \n Neutral Answer Transcription:' + neutral
 
-        user_prompt = f'Answer Audio: <audio> \nNegative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
+        # user_prompt = f'Answer Audio: <audio> \nNegative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
 
-        if not has_audio: user_prompt = f'Negative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
+        user_prompt =  f"""Analyze the following audio file and tell me the emotion and sentiment of the speaker. <audio>
+You can also provide additional insights or highlight important words.
+The transcript of the audio is: Negative: {negative}, Positive: {positive}, Neutral: {neutral}. What is the speaker's emotion?
+Based on the audio and the transcripts, what is the speaker's tone in each clip?Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"""
+
+        # if not has_audio: user_prompt = f'Negative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
+        if not has_audio: user_prompt = f"""Analyze the following audio file and tell me the emotion and sentiment of the speaker.
+You can also provide additional insights or highlight important words.
+The transcript of the audio is: Negative: {negative}, Positive: {positive}, Neutral: {neutral}. What is the speaker's emotion?
+Based on the audio and the transcripts, what is the speaker's tone in each clip?Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"""
         # user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
         # The user
         system_prompt = "You are a therapist. I will give you an audio with 3 answers, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."
+
+        system_prompt = "You are an AI Mental Health assistant analyzing audio files. You will keep your answers short and concise. Preferably one word for each emotion and sentiment. Do not explain your answer. Only output the answer."
 
         specify_output = "Please specify the SDS score for the audio. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression). Only output a number. Do no explain your answer."
 
@@ -122,7 +133,8 @@ def process_directories(isTest=False, has_audio=False):
             message_json = {
                 "messages": [
                     # {"role": "user", "content": system_prompt},
-                    {"role": "user", "content": system_prompt + user_prompt},
+                    {"role": "user", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
                     {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]
@@ -141,6 +153,12 @@ def process_directories(isTest=False, has_audio=False):
                 "messages": [
                     # {"role": "user", "content": system_prompt},
                     {"role": "user", "content": system_prompt + user_prompt + specify_output},
+                    # {"role": "assistant", "content": expected_prediction}
+                ],
+                "messages": [
+                    # {"role": "user", "content": system_prompt},
+                    {"role": "user", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
                     # {"role": "assistant", "content": expected_prediction}
                 ],
                 # "audio": [negative_path_audio, positive_path_audio, neutral_path_audio]

@@ -1,0 +1,41 @@
+R:\>test.py
+Emotion Word Frequencies:
+distressed: 11
+alarm: 205
+like: 101
+long: 195
+alarms: 13
+amazement: 1
+excitement: 16
+distress: 18
+surprised: 6
+alarming: 1
+joy: 2
+disgusting: 1
+delight: 4
+triumph: 1
+surprise: 4
+anger: 2
+terror: 4
+care: 2
+triumphed: 1
+relief: 2
+fear: 2
+hurt: 1
+misery: 1
+amusement: 2
+shock: 1
+frustration: 1
+enthusiasm: 1
+glee: 1
+thrilling: 1
+raging: 1
+worried: 1
+happiness: 1
+passion: 1
+despair: 1
+
+Number of phrases containing at least one emotion word: 599
+
+R:\>
+

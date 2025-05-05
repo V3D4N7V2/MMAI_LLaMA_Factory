@@ -1,0 +1,1 @@
+Index,Emotion,Sentiment,"The transcript of the audio is: Negative: {0}, Positive: {1}, Neutral: {2}. What is the speaker's emotion?","Based on the audio and the transcripts, what is the speaker's tone in each clip?","Based on the audio, and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"

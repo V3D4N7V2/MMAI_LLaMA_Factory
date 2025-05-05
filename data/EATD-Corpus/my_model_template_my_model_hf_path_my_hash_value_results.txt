@@ -1,0 +1,17 @@
+Evaluation Metrics for results_gemini_2.0_flash_audio_20250323-160958.csv:
+Precision: 0.25
+Recall: 0.43
+F1 Score: 0.31
+
+Classification Report:
+                      precision    recall  f1-score   support
+
+    Mildly Depressed       0.52      0.89      0.65        38
+Moderately Depressed       0.00      0.00      0.00         2
+  Normally Depressed       0.00      0.00      0.00         0
+   Normaly Depressed       0.00      0.00      0.00        38
+  Severely Depressed       0.00      0.00      0.00         1
+
+            accuracy                           0.43        79
+           macro avg       0.10      0.18      0.13        79
+        weighted avg       0.25      0.43      0.31        79
