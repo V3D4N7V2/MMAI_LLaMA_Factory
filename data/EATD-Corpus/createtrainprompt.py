@@ -110,14 +110,14 @@ def process_directories(isTest=False, has_audio=False):
 
         user_prompt =  f"""Analyze the following audio file and tell me the emotion and sentiment of the speaker. <audio>
 You can also provide additional insights or highlight important words.
-The transcript of the audio is: Negative: {negative}, Positive: {positive}, Neutral: {neutral}. What is the speaker's emotion?
-Based on the audio and the transcripts, what is the speaker's tone in each clip?Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"""
+The transcript of the audio is: Negative: {negative}, Positive: {positive}, Neutral: {neutral}. What is the speaker's emotion?"""
+# Based on the audio and the transcripts, what is the speaker's tone in each clip?Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"""
 
         # if not has_audio: user_prompt = f'Negative Answer Transcription: {negative} \nPositive Answer Transcription: {positive} \nNeutral Answer Transcription: + {neutral}'
-        if not has_audio: user_prompt = f"""Analyze the following audio file and tell me the emotion and sentiment of the speaker.
+        if not has_audio: user_prompt = f"""Analyze the following statements file and tell me the emotion and sentiment of the speaker.
 You can also provide additional insights or highlight important words.
-The transcript of the audio is: Negative: {negative}, Positive: {positive}, Neutral: {neutral}. What is the speaker's emotion?
-Based on the audio and the transcripts, what is the speaker's tone in each clip?Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"""
+The transcript of the audio is: Negative: {negative}, Positive: {positive}, Neutral: {neutral}. What is the speaker's emotion?"""
+# Based on the audio and the transcripts, what is the speaker's tone in each clip?Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed?"""
         # user_prompt =  "Negative Answer: \nTranscription:" + negative + ' \nPositive Answer: \nTranscription:' + positive + ' \n Neutral Answer: \nTranscription:' + neutral
         # The user
         system_prompt = "You are a therapist. I will give you an audio with 3 answers, you will predict if the person in the audio is depressed or not. You will use the SDS (Zung Self-Rating Depression Scale) score. The scale ranges from 20-44 (Normal), 45-59 (Mild Depression), 60-69 (Moderate Depression), and 70+ (Severe Depression)."

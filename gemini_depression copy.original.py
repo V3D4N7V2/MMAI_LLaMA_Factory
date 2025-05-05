@@ -78,7 +78,7 @@ def process_audio_file(file_path):
             try:
                 r2 = chat.send_message(
                     ["Analyze the following audio file and tell me the emotion and sentiment of the speaker. "
-                    "You can also provide additional insights or highlight important words."]
+                    "You can also provide additional insights or highlight important words.", audio_ref]
                 )
                 break
             except Exception as e:
