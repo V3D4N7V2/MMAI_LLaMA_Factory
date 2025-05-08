@@ -32,7 +32,7 @@ def process_audio_file(file_path):
             transcripts.append("")
 
     try:
-        # Upload the audio and get a reference
+        # Upload the audio and get a reference 
         audio_ref = client.files.upload(file=file_path)
 
         # Create a new chat session for this file

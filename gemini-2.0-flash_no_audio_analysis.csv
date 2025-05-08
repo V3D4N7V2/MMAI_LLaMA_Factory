@@ -1,0 +1,163 @@
+Index,Overall Analysis,Q1,Q2,Q3
+t_1,"Okay, please provide the transcript.",Dislike.,Negative: Annoyed Positive: Relaxed Neutral: Reflective,Normal.
+t_10,"Okay, please provide the transcript.",Negative. Positive. Neutral.,Negative: Anger Positive: Relaxed Neutral: Anxious,Normal.
+t_101,Understood. Please provide the transcript.,Negative: Annoyance Positive: Contentment Neutral: Affection,Negative: Frustration Positive: Serenity Neutral: Warmth,Normal
+t_102,I need the audio transcript to analyze. Please provide it.,Mixed.,Negative: Remorse.  Positive: Affection.  Neutral: Apathetic.,Normal.
+t_103,"Okay, please provide the transcript.",Neutral.,Negative: Neutral. Positive: Happy. Neutral: Ambivalent.,Normal.
+t_104,Understood. Please provide the transcript.,Negative: Frustration.  Positive: Happiness.  Neutral: Disgust.,Negative: Annoyed.  Positive: Relieved.  Neutral: Cynical.,Mildly Depressed.
+t_105,Ready. Please provide the transcript.,Mixed.,Negative: Reflective.  Positive: Content.  Neutral: Objective.,Normal.
+t_106,I am ready. Please provide the transcript.,Happy.,Negative.  Happy.  Neutral.,Normal.
+t_107,Please provide the audio transcript.,Mixed,"Negative, Positive, Neutral",Normal
+t_109,"Okay, please provide the transcript.","Negative, Positive, Neutral","Upset, Happy, Annoyed",Normal
+t_11,Ready. Please provide the transcript.,Mixed.,Negative: Somber.  Positive: Admiring.  Neutral: Objective.,Normal.
+t_111,Okay. Please provide the transcript.,Negative: Regret. Positive: Uncertainty. Neutral: Annoyance.,Negative: Bitter. Positive: Resigned. Neutral: Irritated.,Mildly Depressed.
+t_12,Understood. Please provide the transcript.,Hopeful.,"Negative, Positive, Neutral.",Normal.
+t_13,Understood. Please provide the transcript.,Mixed.,Negative: Annoyed. Positive: Grateful. Neutral: Neutral.,Normal.
+t_14,Understood. Please provide the transcript.,Mixed.,Negative: Regretful. Positive: Happy. Neutral: Indifferent.,Normal.
+t_15,Please provide the audio transcript.,"Negative, Positive, Neutral.","Resigned, Relaxed, Reflective.",Normal.
+t_16,Please provide the audio transcript.,Frustration.,Negative: Annoyed.  Positive: Happy.  Neutral: Ambivalent.,Normal.
+t_18,Please provide the audio transcript.,Mixed.,Negative: Disappointed.  Positive: Relaxed.  Neutral: Hopeful.,Normal.
+t_2,"Okay, please provide the transcript.",Regret.,Negative: Regret.  Positive: Peaceful.  Neutral: Frustrated.,Normal.
+t_20,Okay. Please provide the transcript.,Mixed,Negative: Negative Positive: Positive Neutral: Neutral,Normal
+t_21,I need the audio transcript to analyze. Please provide it.,"Negative, Positive, Neutral","Negative, Relaxed, Hopeful",Normal
+t_22,Ready. Please provide the transcript.,Frustration.,Negative: Frustrated.  Positive: Happy.  Neutral: Affectionate.,Normal.
+t_26,"Okay, please provide the audio transcript.",Sadness,Negative: Regret  Positive: Comfort  Neutral: Listing,Mildly Depressed
+t_27,"Okay, please provide the audio transcript.",Negative: Anger Positive: Relief Neutral: Calm,Negative: Irritated Positive: Content Neutral: Neutral,Normal
+t_28,"Okay, please provide the transcript.",Neutral.,Negative: Apathetic  Positive: Appreciative  Neutral: Hopeful,Normal.
+t_29,"Okay, please provide the transcript.",Contentment.,Negative: Resignation.  Positive: Joy.  Neutral: Hopeful.,Normal.
+t_3,Understood. Please provide the transcript.,Mixed.,Negative: Annoyance. Positive: Happy. Neutral: Flat.,Normal.
+t_30,"Okay, please provide the transcript.",Mixed,"Negative, positive, neutral",Mildly Depressed
+t_31,Understood. Please provide the transcript.,Relaxed.,Negative: Resigned. Positive: Happy. Neutral: Flat.,Normal.
+t_32,Ready. Please provide the transcript.,Varied.,Negative: Frustrated.  Positive: Happy.  Neutral: Content.,Normal.
+t_33,"Okay, please provide the transcript.",Contentment.,Negative: Reflective.  Positive: Affectionate.  Neutral: Observational.,Normal.
+t_34,I need the audio transcript to analyze. Please provide it.,"Negative, Positive, Neutral","Negative, Positive, Neutral",Normal.
+t_35,I need the audio transcript to analyze. Please provide it.,"Negative, Positive, Neutral","Annoyed, Relaxed, Affectionate",Normal
+t_36,Ready. Please provide the transcript.,Mixed.,Negative: Annoyance Positive: Happy Neutral: Neutral,Normal.
+t_38,Understood. Please provide the transcript.,Mixed,Negative: Frustrated Positive: Content Neutral: Indifferent,Normal
+t_39,"Okay, please provide the transcript.",Negative: Regret Positive: Joy Neutral: Discomfort,Negative: Frustrated Positive: Delighted Neutral: Reserved,Normal
+t_40,Understood. Please provide the transcript.,Contentment,Negative: Weary Positive: Enthusiastic Neutral: Reflective,Normal
+t_41,"Okay, please provide the audio transcript.","Negative, Positive, Neutral","Negative, Relaxed, Hopeful",Mildly Depressed
+t_42,"Okay, please provide the transcript.",Negative: Regret Positive: Admiration Neutral: Interest,Negative: Somber Positive: Affectionate Neutral: Objective,Normal
+t_43,"Okay, please provide the transcript.",Stressed.,Clip 1: Negative.  Clip 2: Positive.  Clip 3: Neutral.,Normal.
+t_44,I need the audio transcript to analyze. Please provide it.,Frustration.,Negative: Annoyed.  Positive: Grateful.  Neutral: Informative.,Normal.
+t_45,"Okay, please provide the transcript.",Contentment,Negative: Resigned Positive: Joyful Neutral: Hopeful,Normal
+t_46,Understood. Please provide the audio transcript.,Mixed.,Negative: Negative. Positive: Positive. Neutral: Neutral.,Normal.
+t_47,"Okay, I'm ready. Please provide the transcript.",Negative: Frustration Positive: Joyful Neutral: Ambivalence,Negative: Annoyed Positive: Excited Neutral: Objective,Normal
+t_48,"Okay, please provide the audio transcript.","Negative, Positive, Neutral.","Frustrated, Relaxed, Objective.",Normal.
+t_5,"Okay, please provide the transcript.",Mixed.,Negative: Dismissive  Positive: Content  Neutral: Annoyed,Normal.
+t_51,Ready. Please provide the transcript.,Mixed.,Negative: Frustration.  Positive: Joy.  Neutral: Indifference.,Normal.
+t_53,"Okay, please provide the audio transcript.","Negative: Anger, Frustration  Positive: Affection, Appreciation  Neutral: Calm, Hope",Negative: Irritated  Positive: Warm  Neutral: Peaceful,Normal
+t_54,"Okay, please provide the transcript.",Mixed,Negative: Resigned Positive: Apathetic Neutral: Accomplished,Mildly Depressed
+t_55,Understood. Please provide the transcript.,Mixed.,Negative: Anxious.  Positive: Grateful.  Neutral: Calm.,Normal.
+t_56,"Okay, please provide the transcript.",Negative.,"Negative, Positive, Neutral.",Normal.
+t_58,"Okay, please provide the transcript.",Contentment,Negative: Displeased  Positive: Joyful  Neutral: Detached,Normal
+t_59,"Okay, please provide the audio transcript.",Mixed.,Negative: Disappointed.  Positive: Affectionate.  Neutral: Indifferent.,Normal.
+t_6,"Okay, please provide the transcript.",Mixed,"Negative, Positive, Neutral",Normal
+t_60,"Okay, please provide the transcript.",Disgust.,Negative: Annoyed. Positive: Relaxed. Neutral: Objective.,Normal.
+t_61,"Okay, please provide the transcript.",Mixed.,Negative: Sad.  Positive: Happy.  Neutral: Calm.,Normal.
+t_62,Ready. Please provide the transcript.,Contentment.,Negative: Acceptance. Positive: Joy. Neutral: Calm.,Normal.
+t_63,"Okay, please provide the transcript.",Negative,"Negative, Positive, Neutral",Normal
+t_64,"Okay, please provide the audio transcript.",Anxious.,Negative: Frustrated.  Positive: Excited.  Neutral: Indifferent.,Mildly depressed.
+t_66,Understood. Please provide the transcript.,Mixed.,"Negative, Positive, Neutral.",Normal.
+t_67,Please provide the audio transcript.,"Regret, Happy, Disinterest",Negative: Regretful Positive: Happy Neutral: Apathetic,Normal
+t_68,I need the audio transcript to analyze.,"Negative, Positive, Neutral","Negative, Positive, Neutral",Normal.
+t_69,"Okay, please provide the transcript.",Neutral,"Negative, Positive, Neutral",Normal
+t_70,Ready. Please provide the transcript.,"Regret, Positive, Neutral.",Negative: Regretful.  Positive: Enthusiastic.  Neutral: Content.,Normal.
+t_75,I need the transcript to analyze. Please provide it.,Positive,Negative: Calm Positive: Happy Neutral: Content,Normal
+t_76,"Okay, please provide the transcript.",Mixed,Negative: Frustrated Positive: Relaxed Neutral: Objective,Normal
+t_78,"Okay, please provide the transcript.",Mixed.,Negative: Annoyed.  Positive: Happy.  Neutral: Apathetic.,Normal.
+t_79,I need the audio transcript to analyze. Please provide it.,Mixed.,Negative: Frustrated. Positive: Positive. Neutral: Ambivalent.,Normal.
+t_8,Okay. Please provide the transcript.,Mixed,Negative: Resigned Positive: Content Neutral: Apathetic,Normal
+t_81,Please provide the audio transcript.,Frustrated.,Negative: Irritated.  Positive: Hopeful.  Neutral: Content.,Mildly Depressed.
+t_82,"Okay, please provide the audio transcript.",Mixed.,Negative: Frustrated. Positive: Respectful. Neutral: Affectionate.,Normal.
+t_85,Understood. Please provide the transcript.,Mixed.,Negative: Frustrated. Positive: Relaxed. Neutral: Annoyed.,Normal.
+t_86,I need the audio transcript to analyze. Please provide it.,"Negative, Positive, Neutral","Negative, Positive, Neutral",Normal
+t_87,I need the audio transcript to analyze. Please provide it.,Negative.,"Negative, Positive, Neutral.",Mildly Depressed.
+t_88,"Okay, please provide the transcript.",Mixed.,Negative: Frustrated  Positive: Happy  Neutral: Content,Normal.
+t_89,Please provide the audio transcript.,Mixed.,Negative: Frustration.  Positive: Giddy.  Neutral: Acceptance.,Normal.
+t_9,Ready. Please provide the transcript.,Mixed,Negative: Reflective Positive: Content Neutral: Informative,Normal
+t_90,I need the audio transcript to analyze. Please provide it.,Negative.,"Negative, Positive, Neutral.",Normal.
+t_91,Okay. Please provide the audio transcript.,"Negative, Positive, Neutral","Negative, Positive, Neutral",Normal.
+t_93,I need the audio transcript to analyze. Please provide it.,Contentment.,Negative: Reminiscent.  Positive: Cheerful.  Neutral: Reflective.,Normal.
+t_96,I can't analyze an audio transcript without the actual transcript. Please provide the text.,"Negative, Positive, Neutral","Annoyed, Pleasant, Disinterested",Normal
+t_97,Please provide the audio transcript.,Contentment.,Negative: Resigned.  Positive: Calm.  Neutral: Pleasant.,Normal.
+t_99,"Okay, please provide the transcript.","Negative, Positive, Neutral.","Negative, Relaxed, Positive.",Normal.
+v_10,"Okay, please provide the audio transcript.",Negative.,"Negative, Positive, Neutral.",Normal.
+v_103,Please provide the audio transcript.,Neutral,Negative: Neutral Positive: Neutral Neutral: Neutral,Mildly Depressed
+v_104,"Okay, please provide the transcript.",Negative.,Clip 1: Negative Clip 2: Positive Clip 3: Neutral,Normal.
+v_105,"Okay, please provide the transcript.","Negative, Positive, Neutral","Annoyed, Relaxed, Apathetic",Normal
+v_106,"Okay, please provide the audio transcript.",Negative.,Negative.  Positive.  Neutral.,Normal.
+v_11,Okay. Please provide the transcript.,Happy,Negative: Annoyed.  Positive: Joyful.  Neutral: Indifferent.,Normal.
+v_12,Ready. Please provide the transcript.,"Negative, Positive, Neutral","Negative, Positive, Neutral",Normal.
+v_13,Understood. Please provide the transcript.,Regret.,Clip 1: Regretful. Clip 2: Admiring. Clip 3: Apathetic.,Normal.
+v_15,"Okay, please provide the transcript.",沮丧,Negative: Regretful Positive: Relaxed Neutral: Matter-of-fact,Normal
+v_16,Understood. Please provide the audio transcript.,"Anxious, Happy, Neutral",Negative: Anxious Positive: Happy Neutral: Content,Normal
+v_17,"Okay, please provide the transcript.",Happy.,Negative.  Happy.  Neutral.,Normal.
+v_18,Understood. Please provide the transcript.,Negative. Positive. Neutral.,Negative. Positive. Neutral.,Normal.
+v_19,"Okay, please provide the transcript.",Contentment.,Negative: Stressed.  Positive: Joyful.  Neutral: Calm.,Normal.
+v_2,"Okay, please provide the audio transcript.",Negative: Anger Positive: Joy Neutral: Apathy,Negative: Dismissive Positive: Enthusiastic Neutral: Indifferent,Mildly Depressed
+v_20,"Okay, please provide the audio transcript.",Negative,Negative: Stressed.  Positive: Happy.  Neutral: Content.,Mildly Depressed.
+v_21,I need the audio transcript to analyze. Please provide it.,"Negative, Positive, Neutral","Negative, Happy, Neutral",Normal
+v_22,"Okay, please provide the transcript.","Regret, Happy, Realistic",Negative: Regretful Positive: Pleased Neutral: Pragmatic,Normal
+v_23,Okay. Please provide the transcript.,Happiness.,Negative: Uncertainty.  Positive: Joy.  Neutral: Affection.,Normal.
+v_24,Ready. Please provide the transcript.,"Negative, Positive, Neutral","Regret, Peaceful, Pragmatic",Normal
+v_25,"Okay, please provide the transcript.",Neutral,Negative: Sadness Positive: Testing Neutral: Neutral,Normal
+v_27,Okay. Please provide the audio transcript.,Mixed.,Negative: Frustrated.  Positive: Nostalgic.  Neutral: Bored.,Normal.
+v_28,Please provide the transcript.,Happy.,Negative: Regretful.  Positive: Joyful.  Neutral: Hopeful.,Normal.
+v_29,I need the transcript to analyze. Please provide it.,Contentment,Negative: Distressed Positive: Grateful Neutral: Reflective,Normal
+v_30,Understood. Please provide the transcript.,"Regret, Happy, Neutral","Negative, Positive, Neutral",Normal
+v_31,I need the audio transcript to analyze. Please provide it.,Content.,Negative: Apathetic Positive: Amused Neutral: Objective,Normal.
+v_32,"Okay, please provide the transcript.",Disappointment.,Negative: Frustration.  Positive: Happiness.  Neutral: Indifference.,Normal.
+v_36,"Okay, please provide the transcript.",Mixed.,Negative: Worried.  Positive: Happy.  Neutral: Ambivalent.,Normal.
+v_37,"Okay, please provide the audio transcript.",Neutral,Negative: Negative Positive: Positive Neutral: Neutral,Normal
+v_39,Okay. Please provide the transcript.,Neutral,Negative Positive Neutral,Mildly Depressed
+v_4,Please provide the audio transcript.,Negative.,"Negative, Positive, Neutral.",Normal.
+v_41,Please provide the audio transcript.,Neutral,"Negative, Positive, Neutral",Normal
+v_42,Please provide the transcript.,Mixed.,Negative: Neutral. Positive: Positive. Neutral: Neutral.,Normal.
+v_43,I need the audio transcript to analyze. Please provide it.,Contentment.,Negative: Calm.  Positive: Happy.  Neutral: Affectionate.,Normal.
+v_45,Ready. Please provide the transcript.,Content.,Negative: Sober.  Positive: Relaxed.  Neutral: Flat.,Normal.
+v_47,Please provide the audio transcript.,Relaxed.,Negative: Neutral Positive: Positive Neutral: Neutral,Normal.
+v_48,"Okay, please provide the audio transcript.",Varied.,Negative: Anger.  Positive: Happy.  Neutral: Content.,Normal.
+v_49,Please provide the audio transcript.,Positive,Negative: Regretful Positive: Admiring Neutral: Objective,Normal
+v_5,"Okay, please provide the transcript.","Negative: Despair, Positive: Hopeful, Neutral: Apathetic","Negative: Pessimistic, Positive: Optimistic, Neutral: Indifferent",Mildly Depressed
+v_51,Please provide the audio transcript.,Negative.,Negative.  Positive.  Neutral.,Normal.
+v_52,Ready. Please provide the transcript.,Happy.,Negative: Calm.  Positive: Excited.  Neutral: Objective.,Normal.
+v_53,Ready. Please provide the transcript.,Negative.,"Negative, Positive, Neutral.",Normal.
+v_55,Okay. Please provide the transcript.,Mixed.,Negative: Disappointed. Positive: Relaxed. Neutral: Admiring.,Normal.
+v_56,Understood. Please provide the transcript.,Mixed.,Negative: Frustration. Positive: Joy. Neutral: Indifference.,Normal.
+v_57,Ready. Please provide the transcript.,"Negative, Positive, Neutral.","Regretful, Happy, Annoyed.",Normal.
+v_58,I can't analyze without the audio transcript. Please provide it.,Negative. Positive. Neutral.,Negative: Annoyed. Positive: Happy. Neutral: Indifferent.,Normal.
+v_61,Understood. Please provide the audio transcript.,"Negative, Positive, Neutral","Negative, Positive, Neutral",Normal.
+v_62,I need the audio transcript to analyze it. Please provide the text.,Positive,"Negative, Positive, Neutral",Normal
+v_63,Ready. Please provide the transcript.,Mixed.,Negative: Discontent.  Positive: Joyful.  Neutral: Objective.,Normal.
+v_64,"Okay, please provide the transcript.",Negative: Frustration Positive: Happiness Neutral: Acceptance,Negative: Annoyed Positive: Joyful Neutral: Resigned,Normal
+v_65,Please provide the transcript.,Regret. Enjoyment. Neutral.,Negative: Regretful. Positive: Content. Neutral: Objective.,Normal.
+v_66,Please provide the audio transcript.,Positive,Negative: Annoyed Positive: Happy Neutral: Hopeful,Normal
+v_67,"Okay, please provide the transcript.","Negative, Positive, Neutral","Negative, Positive, Neutral",Normal.
+v_69,"Okay, please provide the audio transcript.",Negative Positive Neutral,Negative Hopeful Neutral,Normal
+v_7,Ready. Please provide the transcript.,Happy,"Negative, Positive, Neutral",Normal
+v_70,"Okay, please provide the transcript.",Mixed.,Negative: Regretful.  Positive: Happy.  Neutral: Hopeful.,Normal.
+v_71,Understood. Please provide the audio transcript.,Mixed,Negative: Sadness Positive: Joy Neutral: Calm,Normal
+v_72,Understood. Please provide the transcript.,Sadness.,Negative: Disappointed. Positive: Happy. Neutral: Calm.,Normal.
+v_73,Okay. Please provide the transcript.,Contentment.,Negative: Relief.  Positive: Joy.  Neutral: Affection.,Normal.
+v_74,I need the transcript to analyze. Please provide it.,Contentment.,Negative: Anxious.  Positive: Happy.  Neutral: Objective.,Normal.
+v_75,"Okay, please provide the transcript.",Positive.,Negative. Positive. Neutral.,Normal.
+v_76,"Okay, I'm ready. Please provide the transcript.",Contentment.,Negative: Annoyance. Positive: Happiness. Neutral: Reflective.,Normal.
+v_77,I need the transcript to analyze. Please provide it.,Negative.,"Negative, Positive, Neutral.",Normal.
+v_79,Ready when you are.,Negative,Negative. Positive. Neutral.,Normal.
+v_8,"Okay, please provide the transcript.",Contentment.,Negative: Calm Positive: Relaxed Neutral: Hopeful,Normal.
+v_81,Understood. Please provide the transcript.,Negative. Positive. Neutral.,Negative: Frustrated. Positive: Joyful. Neutral: Content.,Normal.
+v_82,Understood. Please provide the audio transcript.,Contentment,Negative: Regretless Positive: Relaxed Neutral: Grateful,Normal
+v_83,Understood. Please provide the transcript.,Anxious.,Negative: Frustrated.  Positive: Hopeful.  Neutral: Objective.,Normal.
+v_84,I need the transcript to analyze. Please provide it.,Disappointment.,Negative: Disappointed.  Positive: Relief.  Neutral: Aversion.,Normal.
+v_86,"Okay, please provide the transcript.","Anxious, Hopeful.",Negative: Anxious  Positive: Grateful  Neutral: Apathetic,Normal.
+v_87,Understood. Please provide the transcript.,Mixed.,Negative: Frustration. Positive: Admiration. Neutral: Objective.,Normal.
+v_88,Okay. Please provide the transcript.,Regret.,Negative: Regret.  Positive: Joy.  Neutral: Content.,Normal.
+v_89,Please provide the transcript.,Contentment.,Negative: Bored.  Positive: Happy.  Neutral: Indifferent.,Normal.
+v_9,Please provide the audio transcript.,Mixed.,Negative: Frustrated. Positive: Grateful. Neutral: Content.,Normal.
+v_90,Okay. Please provide the transcript.,Calm.,Negative: Frustration. Positive: Contentment. Neutral: Objective.,Normal.
+v_94,I need the audio transcript to analyze. Please provide it.,Mixed.,Negative: Controlled. Positive: Relaxed. Neutral: Opinionated.,Normal.
+v_96,"Okay, please provide the transcript.",Mixed.,Negative: Regretful.  Positive: Happy.  Neutral: Hopeful.,Normal.
+v_97,Ready when you are. Please provide the transcript.,"Negative, Positive, Neutral",Negative: Frustrated Positive: Happy Neutral: Apathetic,Normal
+v_98,Please provide the audio transcript.,Calm,Negative: Resigned Positive: Relaxed Neutral: Indifferent,Mildly Depressed
+v_99,I am ready. Please provide the transcript.,Hopeful.,Negative: Anxious. Positive: Excited. Neutral: Aspiring.,Normal.

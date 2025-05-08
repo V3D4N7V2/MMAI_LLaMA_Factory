@@ -1,0 +1,163 @@
+Index,Overall Analysis,Q1,Q2,Q3
+t_1,Disgust.  Ambivalent.  Relaxed.,Disgust.,Negative: Annoyed.  Positive: Relaxed.  Neutral: Reflective.,Normal.
+t_10,Anger Anxiety Relaxed,Varied,"Negative, Positive, Neutral",Normal
+t_101,Frustration. Affection. Relaxed.,Mixed.,Clip 1: Annoyed. Clip 2: Happy. Clip 3: Content.,Normal.
+t_102,Sadness. Neutral. Anxiety. Peaceful.,Mixed.,Neutral. Positive. Neutral.,Mildly Depressed.
+t_103,Neutral,Neutral,Negative: Reflective Positive: Happy Neutral: Content,Normal
+t_104,Annoyed.  Discontent.  Happy.,Mixed.,Clip 1: Frustrated. Clip 2: Resigned. Clip 3: Content.,Mildly Depressed.
+t_105,Thoughtful.  Neutral.  Happy.  Excited.,Mixed.,Thoughtful.  Happy.  Neutral.,Normal.
+t_106,Nostalgic. Happy. Happy. Excited.,Positive.,Clip 1: Nostalgic Clip 2: Happy Clip 3: Happy Clip 4: Excited,Normal.
+t_107,Regret.  Dislike.  Happy.  Angry.,Neutral.,Negative.  Neutral.  Positive.,Normal.
+t_109,Sad. Frustrated. Happy.,Mixed.,Negative: Annoyed Positive: Happy Neutral: Tired,Mildly depressed.
+t_11,Doubtful. Neutral. Positive. Positive. Positive.,Mixed.,Neutral. Positive. Neutral.,Normal.
+t_111,Regret Annoyed Lost Unsure,Negative. Neutral. Positive.,Regretful. Reflective. Disgruntled.,Mildly depressed.
+t_12,Hopeful. Content.,Hopeful.,Reflective. Positive. Neutral.,Normal.
+t_13,Frustration.  Interest.  Gratitude.,Neutral.,Negative: Annoyed. Positive: Grateful. Neutral: Informative.,Normal.
+t_14,Regret Neutral Happy Worried,Mixed,Clip 1: Disappointed Clip 2: Reflective Clip 3: Happy Clip 4: Anxious,Normal
+t_15,Resigned.  Neutral. Contemplative. Neutral. Observant. Neutral.,Resigned. Positive. Neutral.,Neutral. Calm. Introspective.,Normal.
+t_16,Frustration Ambivalence Happiness,Mixed.,"Negative, Positive, Neutral.",Normal.
+t_18,Uncertainty.,Mixed.,Negative: Disappointed. Positive: Relaxed. Neutral: Hopeful.,Mildly depressed.
+t_2,Regret. Desire. Curiosity. Inquiry. Neutral.,Mixed.,Regretful. Hopeful. Curious. Neutral.,Normal.
+t_20,Frustration. Negative.,Mixed.,Clip 1: Frustrated. Clip 2: Positive. Clip 3: Neutral.,Normal.
+t_21,Disappointment Hopeful Relaxed,Mixed,Negative: Frustrated Positive: Content Neutral: Hopeful,Normal
+t_22,Frustration Affection Happiness Neutral,Mixed,Negative Positive Neutral,Normal
+t_26,Sadness.,Sadness.,"Sad, Neutral.",Mildly Depressed.
+t_27,Annoyance. Neutral. Neutral.,Negative.,Frustrated. Neutral. Positive.,Normal.
+t_28,Calm.,Hopeful.,Negative: Apathetic. Positive: Appreciative. Neutral: Hopeful.,Normal.
+t_29,Neutral.  Hopeful.  Happy.,Negative.,Neutral.  Positive.  Neutral.,Normal.
+t_3,Resignation.  Sadness.  Neutral.  Fear.,Mixed.,Negative: Resigned. Positive: Neutral. Neutral: Neutral.,Mildly Depressed.
+t_30,Resignation.,Neutral.,"Negative, positive, neutral.",Mildly depressed.
+t_31,Resignation.  Neutral.  Relaxed.  Worried.,Mixed.,Neutral. Positive. Neutral. Negative.,Normal.
+t_32,Calm Positive Contentment Joy,Varied,Negative: Annoyed Positive: Happy Neutral: Neutral,Normal
+t_33,Insomnia Nostalgic Gratitude,Mixed,Reflective Hopeful Neutral,Mildly Depressed
+t_34,Frustration.  Neutral.  Positive.  Negative.,Mixed.,Frustrated.  Positive.  Neutral.,Normal.
+t_35,Annoyance Joy Relaxation,Varied,"Annoyed, positive, neutral",Normal
+t_36,Uncertainty Neutral Happiness Frustration,Mixed,"Neutral, Positive, Neutral",Normal.
+t_38,Frustration. Neutral. Interest. Contentment.,Mixed.,"Frustrated, Positive, Neutral.",Normal.
+t_39,- Disappointed. - Annoyance. - Happiness. - Happy.,- Regret. - Joy. - Dislike.,- Sad. - Excited. - Neutral.,Normal.
+t_40,Tired. Content. Happy.,Mixed.,Clip 1: Weary Clip 2: Content Clip 3: Reflective,Normal.
+t_41,Frustrated. Optimistic. Relaxed.,Varied.,Anxious. Content. Hopeful.,Mildly Depressed.
+t_42,- Regret. - Hopeful. - Admiration.,- Regretful - Admiration - Hopeful,- Melancholy - Admiring - Enthusiastic,Mildly Depressed.
+t_43,Concern. Normal. Encouragement. Neutral.,Anxiety.,Negative: Stressed. Positive: Grateful. Neutral: Casual.,Normal.
+t_44,Frustrated. Neutral. Respectful. Grateful.,Mixed.,Annoyed. Neutral. Appreciative.,Normal.
+t_45,Contentment. Positive.,Hopeful.,Negative: Resigned Positive: Fond Neutral: Yearning,Normal.
+t_46,Neutral. Positive. Neutral. Positive. Neutral.,Varied.,Neutral. Positive. Neutral.,Normal.
+t_47,Frustration Neutral Indifferent Worried Excited,Frustration Excitement Ambivalence,Annoyed Excited Neutral,Normal
+t_48,Frustration Desire Relaxation,Mixed.,Negative: Annoyed. Positive: Relaxed. Neutral: Objective.,Normal.
+t_5,Distant.  Dislike.  Content.  Happy.,Mixed.,Clip 1: Nostalgic. Clip 2: Annoyed. Clip 3: Relaxed.,Normal.
+t_51,Frustration.  Neutral.  Joy.  Annoyance.,Mixed.,Frustrated.  Neutral.  Happy.  Irritated.,Normal.
+t_53,Anger. Calm. Friendliness.,Mixed.,Negative: Frustrated. Positive: Affectionate. Neutral: Reflective.,Normal.
+t_54,Neutral.,Mixed.,Clip 1: Neutral. Clip 2: Neutral. Clip 3: Resigned.,Normal.
+t_55,Anxious Love Gratitude,Varied.,Negative: Anxious Positive: Grateful Neutral: Calm,Normal.
+t_56,Frustrated.  Negative.,Frustration.,Negative.  Neutral.  Positive.,Normal.
+t_58,Annoyed Neutral Content,Mixed,Clip 1: Annoyed. Clip 2: Neutral. Clip 3: Content.,Normal.
+t_59,Disappointment Relaxed Affectionate Neutral,Mixed,Regretful Calm Positive,Normal
+t_6,厌恶 渴望 快乐,Mixed,Clip 1: Disgusted Clip 2: Happy Clip 3: Hopeful,Normal
+t_60,厌恶 积极 放松,Mixed,Negative: Negative Positive: Positive Neutral: Neutral,Normal
+t_61,Neutral.,Mixed.,"Negative, Positive, Neutral.",Normal.
+t_62,Regret.  Content.  Happy.,Mixed.,Clip 1: Reflective. Clip 2: Content. Clip 3: Neutral.,Normal.
+t_63,Uncertain Neutral Neutral Happy,Neutral,Uncertain Neutral Happy,Normal
+t_64,- Anxious - Neutral - Excited,Mixed.,- Worried - Neutral - Happy,Normal
+t_66,Disappointment.  Neutral.  Amusement.  Contentment.,Mixed.,Clip 1: Negative. Clip 2: Neutral. Clip 3: Positive.,Normal.
+t_67,Regret. Neutral. Dislike. Happy. Sadness.,Mixed.,Negative. Positive. Neutral.,Normal.
+t_68,Anger.  Joy.  Gratitude.,Mixed.,Negative: Annoyed. Neutral: Affectionate. Positive: Admiring.,Normal.
+t_69,Calm. Neutral. Content.,Varied.,Neutral. Neutral. Positive.,Normal.
+t_70,Regret.  Content.  Happy.  Neutral.,Mixed.,Regretful.  Positive.  Neutral.,Normal.
+t_75,Calm Joyful Joy Appreciation,Positive,Calm Joyful Neutral,Normal
+t_76,1.  Concerned 2.  Indifferent 3. Relaxed,Mixed.,Neutral. Neutral. Neutral.,Normal.
+t_78,Betrayed.  Overwhelmed.  Happy.  Neutral.,Varied.,"Negative, Positive, Neutral.",Normal.
+t_79,Frustration Affection Positive,Mixed.,Negative: Annoyed. Positive: Optimistic. Neutral: Ambivalent.,Normal.
+t_8,Neutral Neutral Happy,Nostalgic,Negative: Resigned Positive: Affectionate Neutral: Objective,Mildly depressed.
+t_81,- Annoyed - Happy - Unsure,Mixed.,- Irritated - Hopeful - Affectionate,Mildly depressed.
+t_82,Frustration Joy Respect,Varied,Frustrated Joyful Neutral,Normal
+t_85,Annoyance.,Mixed.,Neutral.,Normal.
+t_86,Annoyed Happy Relaxed Bored,Mixed,Clip 1: Frustrated Clip 2: Positive Clip 3: Content,Normal.
+t_87,Nostalgic.  Neutral.,Mixed.,Clip 1: Reflective. Clip 2: Happy. Clip 3: Neutral.,Normal.
+t_88,Neutral Positive Positive Positive Calm,Mixed,Neutral Positive Neutral,Normal
+t_89,Frustration Acceptance Joy,Mixed,Negative Positive Neutral,Normal
+t_9,Okay.  Vulnerability.  Interest.  Pleasure.,Mixed.,Reflective. Informative. Content.,Normal.
+t_90,Resigned Neutral Appreciative,Mixed.,Negative: Critical. Positive: Grateful. Neutral: Apathetic.,Normal.
+t_91,Frustration.  Love.  Affection.,Mixed.,Frustrated.  Loving.  Content.,Normal.
+t_93,Sadness Neutral Happiness Happiness Anger,Mixed.,Clip 1: Sadness Clip 2: Neutral Clip 3: Happiness,Mildly Depressed
+t_96,Annoyance.  Frustration.  Positive.  Neutral.,Mixed.,"Negative, Positive, Neutral.",Normal.
+t_97,Acceptance.  Joyful.  Contentment.  Neutral.,Resilient.,"Resigned, Calm, Content.",Normal.
+t_99,Reminiscence Frustration Joyful Relaxed,Mixed.,Clip 1: Annoyed Clip 2: Happy Clip 3: Content,Normal.
+v_10,- Annoyed. - Neutral. - Positive.,Mixed.,- Disappointed. - Positive. - Neutral.,Normal.
+v_103,Neutral. Negative. Disappointment.,Neutral.,Neutral. Neutral. Neutral.,Mildly depressed.
+v_104,Anxious Neutral Neutral Positive,Mixed.,"Negative, Positive, Neutral.",Normal.
+v_105,Anger Neutral Relaxed Fear,Varied,Annoyed Neutral Calm,Normal
+v_106,Disgust.  Anticipation.  Joy.,Varied.,Negative.  Positive.  Neutral.,Normal.
+v_11,Annoyance Dislike Happiness Fear,Mixed,"Negative, Positive, Neutral",Normal
+v_12,Frustration. Joy. Hopeful.,Mixed.,Negative. Positive. Neutral.,Normal.
+v_13,Regret.  Immature.  Admiration.,Mixed.,Clip 1: Regretful Clip 2: Neutral Clip 3: Positive,Normal.
+v_15,Disappointed.  Neutral.  Relaxed.,Varied.,"Disappointed, Neutral, Relaxed.",Normal.
+v_16,Anxious. Positive. Friendly.,Mixed.,Worried. Affectionate. Amused.,Normal.
+v_17,Calm. Hopeful. Happy.,Contentment.,Neutral. Joyful. Thoughtful.,Normal.
+v_18,Concern Anxiety Happy,Mixed,"Frustrated, Anxious, Happy",Normal
+v_19,Upset.  Normal.  Happy.,Mixed.,Anxious. Neutral. Happy.,Normal.
+v_2,Dismissive. Neutral. Optimistic. Happy.,Content.,Sarcastic. Enthusiastic. Casual.,Normal.
+v_20,Stress Pleasure Contentment,Mixed,"Negative, Positive, Neutral",Mildly Depressed
+v_21,厌恶 陈述 开心,Varied.,厌恶 陈述 开心,Normal
+v_22,Regret Hopeful Happy,Mixed,"Regretful, hopeful, content.",Normal
+v_23,Regret.  Joy.  Happiness.  Calm.,Positive.,Negative. Positive. Neutral.,Normal.
+v_24,Regret. Hopeful. Peaceful.,Mixed.,Regretful. Hopeful. Neutral.,Normal.
+v_25,Forgetful Positive Neutral Neutral Hopeful,Mixed,Nostalgic Positive Neutral,Normal
+v_27,Anxious. Sad. Longing. Worried.,Mixed.,Neutral. Neutral. Positive. Negative.,Mildly depressed.
+v_28,Regret Hope Gratitude,Mixed,"Regretful, Happy, Hopeful",Normal
+v_29,Concern.  Dream.  Influence.  Influence.  Tension.,Mixed.,Negative: Anxious Positive: Appreciative Neutral: Reflective,Normal.
+v_30,Regret Serene Happy,Mixed.,Negative: Regretful. Positive: Happy. Neutral: Informative.,Normal.
+v_31,Neutral.,Varied.,Negative. Positive. Neutral.,Normal.
+v_32,Disappointed. Relaxed. Excited.,Mixed.,Clip 1: Somber. Clip 2: Neutral. Clip 3: Happy.,Normal.
+v_36,Worry. Like. Fondness.,Mixed.,Worrying. Positive. Neutral.,Normal.
+v_37,Sadness Fear Affirmation Anger,Varied,Negative: Somber. Positive: Content. Neutral: Flat.,Mildly Depressed
+v_39,Sadness. Negative.,Mixed.,Clip 1: Sadness. Clip 2: Neutral. Clip 3: Positive.,Mildly Depressed.
+v_4,Displeasure.  Frustration.  Annoyance.  Happiness.,Mixed.,Negative.  Positive.  Neutral.,Normal.
+v_41,Neutral. Calm. Content. Neutral.,Neutral.,Neutral. Calm. Content.,Normal.
+v_42,Neutral. Relaxed. Appreciative. Tense.,Mixed.,Neutral. Neutral. Positive.,Normal.
+v_43,Loneliness.  Joyful.  Contentment.,Mixed.,Negative: Somber Positive: Relaxed Neutral: Affectionate,Mildly Depressed.
+v_45,Concerned. Sympathy. Content.,Mixed.,Neutral. Positive. Neutral.,Normal.
+v_47,Neutral. Interest. Enthusiastic. Relaxed.,Positive.,"Neutral, Positive, Neutral.",Normal.
+v_48,Anger.  Admiration.  Happiness.,Neutral.,Clip 1: Reflective. Clip 2: Appreciative. Clip 3: Happy.,Normal.
+v_49,Regret. Creative. Positive.,Reflective.,Negative: Reflective Positive: Admiring Neutral: Neutral,Normal.
+v_5,Pensive.  Neutral.,Mixed.,Negative: Frustrated.  Positive: Hopeful.  Neutral: Detached.,Mildly Depressed.
+v_51,Frustration.  Affection.  Neutral.,Mixed.,Negative.  Positive.  Neutral.,Normal.
+v_52,Neutral.  Content.  Happy.,Content.,"Neutral, Content, Neutral.",Normal.
+v_53,Disappointment.  Practicality.  Neutral.,Mixed.,Disappointed.  Neutral.  Positive.,Normal.
+v_55,Displeasure Content Happiness,Mixed.,First: Resigned. Second: Appreciative. Third: Relieved.,Mildly Depressed.
+v_56,Frustrated Relaxed Happy,Mixed,Frustrated Neutral Happy,Normal
+v_57,Regret Annoyance Happy,Mixed,Regretful Annoyed Happy,Normal.
+v_58,Disgust. Cute. Joyful.,Dislike. Love. Neutral.,Annoyed. Affectionate. Excited.,Normal.
+v_61,Frustration.  Happy.  Happy.,Mixed.,Clip 1: Annoyed. Clip 2: Content. Clip 3: Neutral.,Normal.
+v_62,Neutral. Neutral. Thoughtful.,Positive.,Clip 1: Neutral. Clip 2: Neutral. Clip 3: Positive.,Normal.
+v_63,Displeasure. Negative. Enthusiasm. Positive. Happiness. Positive.,Mixed.,Displeased. Neutral. Happy.,Normal.
+v_64,Frustration Neutral Happiness,Mixed,Annoyed Neutral Happy,Normal
+v_65,Regretful. Hopeful. Happy.,Mixed.,Contemplative. Content. Neutral.,Normal.
+v_66,Recollecting.  Hopeful.  Relieved.,Mixed.,Reflective.  Hopeful.  Relieved.,Normal.
+v_67,1. Neutral 2. Ambivalence 3. Happiness,Varied,1. Reflective 2. Excited 3. Contemplative,Normal
+v_69,Resignation.  Neutral.  Melancholy.,Negative.  Positive.  Neutral.,Frustration.  Neutral.  Nostalgia.,Mildly Depressed.
+v_7,Neutral Content Nostalgic,Varied,Neutral Positive Neutral,Normal
+v_70,Sadness. Hope. Happiness.,Mixed.,Negative. Neutral. Positive.,Normal.
+v_71,Sadness. Contemplative. Relaxed. Playful.,Mixed.,Clip 1: Somber. Clip 2: Peaceful. Clip 3: Lighthearted.,Mildly Depressed.
+v_72,Disappointment. Hope. Joy.,Mixed.,Sadness. Hopeful. Neutral.,Mildly depressed.
+v_73,Worried. Love. Hopeful. Sad.,Mixed.,"Concerned, Happy, Neutral.",Mildly Depressed.
+v_74,Anxious Enthusiastic Positive Helpful,Mixed,"Anxious, Enthusiastic,Positive",Normal
+v_75,Calm. Hopeful. Content.,Mixed.,Calm. Hopeful. Content.,Normal.
+v_76,Concerned.  Thoughtful.  Tired.,Reflective.,Reflective.  Hopeful.  Content.,Normal.
+v_77,Resignation,Mixed,Clip 1: Weary Clip 2: Neutral Clip 3: Casual,Mildly Depressed
+v_79,Frustration.  Happiness.  Sadness.,Negative.,Negative.  Positive.  Neutral.,Mildly Depressed.
+v_8,Calm. Hopeful. Content. Relaxed.,Hopeful.,"Calm, Positive, Neutral.",Normal.
+v_81,Frustration.  Joyful.  Happy.,Mixed.,Negative.  Positive.  Neutral.,Normal.
+v_82,Content.  Positive.  Relaxed.,Content.,Neutral.  Relaxed.  Neutral.,Normal.
+v_83,Anxious. Interested. Positive.,Mixed.,Clip 1: Anxious Clip 2: Interested Clip 3: Positive,Normal.
+v_84,Disappointment.  Relief.  Relaxed.,Varied.,Negative.  Positive.  Neutral.,Normal.
+v_86,Anxiety. Neutral. Support. Neutral.,Anxiety.,Negative. Positive. Neutral.,Mildly depressed.
+v_87,Frustration Neutral Admiration,Varied,"Negative, Positive, Neutral",Normal
+v_88,Regret.  Happiness.  Positive.  Negative.,Regret.,Regretful.  Positive.  Happy.,Normal.
+v_89,Relaxed Neutral Happy,Mixed.,Neutral. Positive. Neutral.,Normal.
+v_9,Disappointed. Positive. Happy. Positive.,Negative. Positive. Neutral.,Negative. Positive. Neutral.,Mildly depressed.
+v_90,Calm.  Neutral.  Content.,Calm.,Neutral.,Normal.
+v_94,Neutral. Positive. Relaxed.,Mixed.,Neutral. Positive. Neutral.,Normal.
+v_96,Regret.  Hopeful.  Happy.  Sad.,Mixed.,"Regretful, Hopeful, Happy, Sad.",Mildly Depressed.
+v_97,First Audio: Calm  Second Audio: Neutral  Third Audio: Happy,Varied,Clip 1: Reflective Clip 2: Dispassionate Clip 3: Joyful,Normal
+v_98,Resigned.  Neutral.  Calm.  Worried.,Resigned.,Clip 1: Defeated. Clip 2: Relaxed. Clip 3: Neutral. Clip 4: Anxious.,Mildly Depressed.
+v_99,Concern. Neutral. Hopeful. Happy. Happy. Positive.,Mixed.,Neutral. Excited. Hopeful.,Normal.

@@ -1,0 +1,163 @@
+Index,Overall Analysis,Q1,Q2,Q3
+t_1,Understood. Proceed with the audio file.,"Frustration, Contentment, Reflective","Negative: Annoyed, Positive: Relaxed, Neutral: Pensive",Normal
+t_10,Ready.,Anger/Relaxed/Neutral,Agitated/Cheerful/Serious,Normal
+t_101,Understood. Please provide the audio file.,"Frustration, Content.","Annoyed, Relaxed, Affectionate.",Mildly Depressed.
+t_102,Ready.,Mixed.,"Negative, Positive, Neutral.",Mildly.
+t_103,Please provide the audio file. I need the audio to analyze it.,Uncertain,Negative: Hesitant Positive: Casual Neutral: Indifferent,Normal
+t_104,"Okay, I'm ready. Please provide the audio file.","Frustrated, happy, neutral.","Negative, positive, apathetic.",Mildly.
+t_105,Ready.,"Conflict, content, neutral.","Hesitant, happy, objective.",Normal.
+t_106,Understood. Please provide the audio file or a transcript of the audio.,Mixed,*   **Negative:** Resigned *   **Positive:** Joyful *   **Neutral:** Affectionate,Mildly Depressed
+t_107,Understood. I'm ready for the audio file.,Mixed.,*   **Negative:** Disappointed. *   **Positive:** Cheerful. *   **Neutral:** Indifferent.,Normal.
+t_109,Understood.,"Frustrated, Happy, Annoyed","Negative: Disappointed, Positive: Excited, Neutral: Resentful",Mildly
+t_11,Okay. Please provide the audio file or a transcription.,"Negative, Positive, Neutral.","Hesitant, Inspiring, Matter-of-fact.",Mildly Depressed.
+t_111,Understood. Ready when the audio file is provided.,"Regret, Sad, Annoyance",Negative: Bitter Positive: Apathetic Neutral: Irritated,Moderately Depressed
+t_12,Understood. Please provide the audio file.,Mixed,"Regretful, Joyful, Hopeful",Mildly Depressed
+t_13,"Okay, I'm ready. Please provide the audio file.","Annoyed, Hopeful, Interested.","Frustrated, Encouraging, Neutral.",Mildly Depressed.
+t_14,Ready.,Mixed.,"Regret, happy, neutral.",Mildly.
+t_15,Okay. I will do my best.,Neutral,*   Negative: Apathetic *   Positive: Relaxed *   Neutral: Reflective,Mildly Depressed
+t_16,Analyzing.,"Frustration, Joy, Mixed.","Negative, Happy, Neutral.",Normal.
+t_18,"Okay, I'm ready. Please provide the audio file.",Mixed,"Negative, Positive, Neutral",Mildly
+t_2,"Okay, I'm ready. Please provide the audio file.","Frustrated, hopeful.","Regretful, Observant, Anxious.",Mildly.
+t_20,Understood. Ready for the file.,Mixed.,*   Negative: Frustrated *   Positive: Hopeful *   Neutral: Bored,Mildly.
+t_21,Ready.,"Negative, Relaxed, Neutral","Worried, Calm, Hopeful",Mildly
+t_22,Okay. Proceed.,"Frustrated, Happy, Neutral.","Angry, Joyful, Calm.",Normal.
+t_26,Ready.,"Sadness, hope.","Regret, appreciative, neutral.",Mildly Depressed.
+t_27,"Okay, ready.","Anger, Positive, Neutral","Angry, Enthusiastic, Neutral",Mildly Depressed
+t_28,Understood. Ready.,"Surprised, grateful, hopeful.","Slightly surprised, appreciative, optimistic.",Normal.
+t_29,Ready.,"Hopeful, content.","Hesitant, Pleased, Neutral.",Normal.
+t_3,Ready.,Mixed.,Negative: Critical Positive: Enthusiastic Neutral: Detached,Normal
+t_30,Ready.,Confused,Negative: Regretful Positive: Content Neutral: Uncertain,Mildly Depressed
+t_31,Ready.,Mixed.,*   Negative: Anxious *   Positive: Relaxed *   Neutral: Indifferent,Mildly Depressed
+t_32,Understood. I'm ready.,Mixed,"Negative, Positive, Neutral",Normal
+t_33,Understood.,Mixed.,Negative: Hesitant Positive: Joyful Neutral: Casual,Mildly
+t_34,Understood. I'm ready.,Frustration/Joy/Neutral,Irritated/Warm/Flat,Normal
+t_35,"Okay, I'm ready. Please provide the audio file.","Anger, Joy, Neutral","Frustrated, Relaxed, Conversational",Normal
+t_36,Okay.,"Frustrated, content, neutral.","Hesitant, excited, informative.",Mildly.
+t_38,Understood. Ready for the file.,"Frustration, Contentment, Neutral","Annoyed, Pleased, Informative",Normal
+t_39,Understood. Ready.,"Regret, Joy, Indifference.",*   **Negative**: Disappointed *   **Positive**: Happy *   **Neutral**: Apathetic,Mildly Depressed
+t_40,Understood. Ready for the audio.,Mixed,Negative: Tired Positive: Enthusiastic Neutral: Reflective,Mildly Depressed
+t_41,Understood. I will need the audio file to analyze it. Please provide the audio file or a way for me to access it.,*   Negative: Distress *   Positive: Relaxed *   Neutral: Hopeful,*   Negative: Anxious *   Positive: Content *   Neutral: Reflective,Mildly Depressed
+t_42,Ready.,"Regret, admiration, interested.","Negative, positive, neutral.",Mildly Depressed.
+t_43,Understood. Ready for the audio file.,"Anxious, Neutral, Content.","Negative, Neutral, Calm.",Mildly Depressed.
+t_44,Ready.,Mixed,Negative: Frustrated Positive: Appreciative Neutral: Informative,Normal
+t_45,Ready.,Content.,"Accepting, Nostalgic, Calm.",Normal.
+t_46,Understood.,Annoyed.,*   **Negative:** Disappointed *   **Positive:** Relaxed *   **Neutral:** Irritated,Normal.
+t_47,Understood. Please provide the audio file.,"Negative, Positive, Neutral","Frustrated, Happy, Contemplative",Normal
+t_48,Understood. Ready for the audio file.,"Sad, Relaxed, Neutral","Frustrated, Peaceful, Objective",Mildly Depressed
+t_5,Understood. I'm ready. Please provide the audio file.,Mixed,*   **Negative:** Indifferent *   **Positive:** Content *   **Neutral:** Displeased,Normal
+t_51,Understood. Ready.,Mixed.,Negative: Frustrated. Positive: Joyful. Neutral: Indifferent.,Mildly.
+t_53,Ready.,"Frustration, Contentment, Hopeful.",Negative: Aggravated. Positive: Warm. Neutral: Calm.,Normal.
+t_54,Understood.,"Sad, resigned.","Negative: Anxious, Positive: Defeated, Neutral: Reflective.",Mildly.
+t_55,Understood. Please provide the audio file or a way for me to access it.,"Anxious, grateful, neutral.",Negative: Worried Positive: Appreciative Neutral: Descriptive,Mildly Depressed.
+t_56,I am ready. Please provide the audio file or the transcription of the audio.,"Anger, Disappointed, Neutral","Angry, Hopeful, Flat",Mildly
+t_58,"Okay, I'm ready. Please provide the audio file.",Mixed,*   Negative: Unhappy *   Positive: Relaxed *   Neutral: Matter-of-fact,Mildly
+t_59,Understood. Ready for the audio file.,"Frustrated, Affectionate, Neutral.","Disappointed, Loving, Calm.",Mildly.
+t_6,Understood. Please provide the audio file.,Mixed,Negative: Disgust Positive: Joyful Neutral: Hopeful,Mildly Depressed
+t_60,Understood. Please provide the audio file.,*   Negative: Disgust *   Positive: Relaxed *   Neutral: Indifferent,*   Negative: Distressed *   Positive: Content *   Neutral: Pragmatic,Mildly Depressed
+t_61,"Okay, I am ready.","Sad, Joyful, Neutral","Negative, Positive, Neutral",Mildly Depressed
+t_62,Understood. Ready for the file.,Content.,"Positive, Neutral, and Neutral.",Normal.
+t_63,"Okay, I'm ready. Please provide the audio file.",Uncertainty,"Uncertain, Joyful, Neutral",Normal
+t_64,Understood.,"Negative, Neutral, Positive","Frustrated, Calm, Hopeful",Mildly Depressed
+t_66,Understood. Please provide the audio file.,Mixed,*   **Negative:** Disappointed *   **Positive:** Pleased *   **Neutral:** Observational,Normal
+t_67,Ready.,"Regret, Content, Dislike","Regretful, Happy, Annoyed",Mildly Depressed
+t_68,Understood. Please provide the audio file.,"Negative, Positive, Neutral","Aggravated, Appreciative, Affectionate",Normal
+t_69,"Okay, I'm ready. Please provide the audio file or a transcription.",Mixed.,*   Negative: Calm. *   Positive: Fond. *   Neutral: Balanced.,Normal.
+t_70,Understood. Ready for the file.,"Regret, Joy, Neutral","Regretful, Enthusiastic, Objective",Mildly Depressed
+t_75,Understood. Provide the audio file.,Mixed,Negative: Calm Positive: Joyful Neutral: Content,Normal
+t_76,Understood. Ready.,"Concerned, Relaxed, Neutral","Anxious, Calm, Informative",Normal
+t_78,Understood.,"Sad, Happy, Neutral",*   **Negative:** Disappointed *   **Positive:** Joyful *   **Neutral:** Indifferent,Mildly
+t_79,Understood. Ready for the audio file.,"Frustration, Positive, Neutral","Aggravated, Encouraged, Ambivalent",Normal
+t_8,Ready.,Mixed,Negative: Avoidant Positive: Warm Neutral: Flat,Mildly Depressed
+t_81,Ready.,Frustrated,*   **Negative:** Annoyed *   **Positive:** Hopeful *   **Neutral:** Reflective,Mildly Depressed
+t_82,Understood. Ready for the audio.,Conflicted,*   Negative: Agitated *   Positive: Respectful *   Neutral: Affectionate,Normal
+t_85,Understood. Ready for the audio.,"Frustrated, Content, Indifferent","Resentful, Relaxed, Apathetic",Mildly
+t_86,Understood. Ready.,Mixed.,*   Negative: Frustrated *   Positive: Content *   Neutral: Cheerful,Mildly.
+t_87,Understood. Ready for the file.,Confused.,*   Negative: Regretful *   Positive: Enthusiastic *   Neutral: Indifferent,Mildly.
+t_88,Understood. Please provide the audio file or a transcript of the audio. I will analyze it and respond with one word for emotion and sentiment.,Mixed,*   **Negative:** Regretful *   **Positive:** Cheerful *   **Neutral:** Reflective,Normal
+t_89,Understood. Ready.,*   **Negative**: Dissatisfied *   **Positive**: Joyful *   **Neutral**: Accepting,*   **Negative**: Irritated *   **Positive**: Content *   **Neutral**: Indifferent,Normal
+t_9,"Okay, I am ready. Please provide the audio file or a transcript.",Mixed,Negative: Defiant Positive: Joyful Neutral: Informative,Normal
+t_90,Understood. Please provide the audio file.,"Frustrated, Loving, Dislike",*   **Negative:** Critical *   **Positive:** Affectionate *   **Neutral:** Disinterested,Normal
+t_91,Understood. Ready.,Mixed,"Negative, Positive, Neutral",Normal
+t_93,Analyzing.,Unsure,Negative: Forgetful Positive: Happy Neutral: Curious,Mildly
+t_96,Understood.,"Frustrated, Positive, Neutral","Agitated, Content, Indifferent",Normal
+t_97,"Okay, I'm ready. Please provide the audio file.",Content.,*   **Negative:** Resigned *   **Positive:** Relaxed *   **Neutral:** Cheerful,Normal.
+t_99,Understood. Ready.,"Irritated, happy, neutral.","Annoyed, relaxed, indifferent.",Normal.
+v_10,Understood. Ready for the audio.,"Negative, Positive, Neutral.","Negative, Positive, Neutral.",Normal.
+v_103,"Okay, I'm ready. Please provide the audio file.",Sad.,*   **Negative:** Resigned *   **Positive:** Disappointed *   **Neutral:** Matter-of-fact,Mildly
+v_104,Analyzing... (Waiting for audio),Mixed,Negative: Uncomfortable Positive: Appreciative Neutral: Flat,Mildly
+v_105,Ready.,"Annoyed, Relaxed, Neutral","Frustrated, Peaceful, Casual",Mildly
+v_106,Understood. Please provide the audio file or the text transcript.,"Negative, Positive, Neutral","Critical, Cheerful, Serious",Normal
+v_11,Understood. I'm ready for the audio file. Please provide it.,*   **Negative:** Annoyed *   **Positive:** Joyful *   **Neutral:** Apathetic,*   **Negative:** Irritated *   **Positive:** Cheerful *   **Neutral:** Uninterested,Normal
+v_12,Understood. Please provide the audio file.,"Frustrated, Optimistic, Content.","Negative, Positive, Neutral.",Mildly.
+v_13,Understood. Ready for the audio.,"Regretful, Grateful, Indifferent.","Regretful, Appreciative, Apathetic.",Mildly Depressed.
+v_15,Ready.,"*   **Emotion:** Mixed *   **Sentiment:** Positive, Negative, Neutral",*   **Negative:** Discouraged *   **Positive:** Relaxed *   **Neutral:** Informative,Normal
+v_16,Understood. Ready for the file.,"Anxious, Friendly, Happy.","Worried, Warm, Playful.",Normal.
+v_17,Understood. I am ready to analyze the audio. Please provide the audio file or a description of its content. I need the audio to analyze it.,"Sadness, Joy, Hopeful","Negative, Joyful, Optimistic",Mildly
+v_18,Ready.,Mixed.,"Angry, Happy, Calm.",Normal.
+v_19,Understood. Please provide the audio file or a transcript.,"Anxious, Happy, Neutral.","Worried, Joyful, Matter-of-fact.",Mildly Depressed.
+v_2,Understood.,"Frustrated, Happy, Calm","Sarcastic, Enthusiastic, Casual",Normal
+v_20,Ready.,"Anxious, Positive, Neutral.","Worried, Cheerful, Indifferent.",Mildly.
+v_21,Understood.,"Annoyed, Happy, Neutral","Negative, Positive, Neutral",Normal
+v_22,Understood. Please provide the audio file.,"Regret, Hopeful","Regretful, Optimistic, Pragmatic",Mildly Depressed
+v_23,Ready.,Mixed,*   Negative: Uncertain *   Positive: Joyful *   Neutral: Content,Mildly Depressed
+v_24,Ready.,"Regret, Serene, Determined.","Resigned, Peaceful, Practical.",Mildly.
+v_25,Understood.,Mixed.,*   Negative: Sad *   Positive: Enthusiastic *   Neutral: Calm,Mildly.
+v_27,Understood.,"Anxious, Nostalgic, Bored","Worried, Fond, Indifferent",Mildly Depressed
+v_28,Understood. Please provide the audio file.,"Regret, Happy, Hopeful.","Regretful, Joyful, Neutral.",Normal
+v_29,Understood. Please provide the audio file or a transcript.,Mixed.,Negative: Dissatisfied. Positive: Appreciative. Neutral: Reflective.,Mildly Depressed.
+v_30,Understood. Ready for the audio.,"Regret, Happy, Neutral.","Regretful, Joyful, Matter-of-fact.",Normal.
+v_31,Okay. *Ready to analyze.*,"Neutral, Positive, Neutral","Resigned, Joyful, Informative",Mildly
+v_32,Okay. I am ready. Please provide the audio file or a transcript of the audio.,"Sad, Happy, Neutral","Disappointed, Proud, Calm",Mildly Depressed
+v_36,"Okay, ready.",Mixed.,"Anxious, Joyful, Indifferent.",Mildly.
+v_37,Understood. Ready.,Mixed,*   Negative: Resentful *   Positive: Content *   Neutral: Informative,Mildly
+v_39,"Okay, I'm ready. Please provide the audio file or a transcription of it.",Confused,*   Negative: Questioning *   Positive: Apathetic *   Neutral: Indifferent,Mildly
+v_4,Understood. Please provide the audio file or the transcript.,*   **Negative:** Frustrated *   **Positive:** Happy *   **Neutral:** Indifferent,*   **Negative:** Annoyed *   **Positive:** Pleased *   **Neutral:** Apathetic,Normal
+v_41,Ready.,Mixed.,"Negative, Positive, Neutral.",Mildly.
+v_42,Understood.,"Negative, Positive, Neutral","Argumentative, Encouraging, Relaxed",Normal
+v_43,Understood. I will await the audio file.,"Relaxed, happy, neutral.",*   **Negative:** Calm *   **Positive:** Joyful *   **Neutral:** Enthusiastic,Normal.
+v_45,"Okay, ready.","Anxious, Comfort","Worried, Relaxed, Informative",Mildly
+v_47,Ready.,Relaxed,*   Negative: Tired *   Positive: Enthusiastic *   Neutral: Informative,Normal
+v_48,Understood. Please provide the audio file or a transcription of the audio.,"Anger, Joy, Neutral","Somber, Cheerful, Flat",Normal
+v_49,"Understood. I will analyze the audio and respond with emotion and sentiment, followed by any requested insights.",Mixed,*   **Negative:** Regretful *   **Positive:** Appreciative *   **Neutral:** Observational,Normal
+v_5,Understood. Ready.,Mixed.,Negative: Agitated. Positive: Hopeful. Neutral: Detached.,Mildly.
+v_51,Understood. Ready for the audio file.,Mixed,"Negative, Positive, Neutral",Normal
+v_52,Understood. Ready.,Mixed,"Negative: Concerned, Positive: Joyful, Neutral: Practical",Normal
+v_53,Understood. Please provide the audio file or text transcription.,Mixed,*   Negative: Disappointed *   Positive: Happy *   Neutral: Informative,Normal
+v_55,Understood. Ready for the audio.,Mixed.,Negative: Apathetic. Positive: Brief. Neutral: Reflective.,Mildly Depressed.
+v_56,Analyzing.,"Negative, Positive, Neutral.","Frustrated, Joyful, Bored.",Mildly.
+v_57,Okay. *Waiting for audio file input.*,"Regret, Happy, Dislike","Regretful, Cheerful, Critical",Normal
+v_58,Understood. I will.,"Annoyance, Happy, Indifferent","Negative, Joyful, Apathetic",Normal
+v_61,Okay. Please provide the audio file or the transcript.,"Frustrated, Happy, Neutral","Negative, Positive, Neutral",Normal
+v_62,Understood.,Grateful.,"Positive, Positive, Neutral.",Normal.
+v_63,Ready.,Mixed.,"Negative, Positive, Neutral.",Normal.
+v_64,"Okay, I am ready. Please provide the audio file.","Frustrated, Happy, Neutral","Annoyed, Joyful, Dispassionate",Normal
+v_65,Analyzing... (Please provide the audio file),"Regret, Content.","Regretful, Relaxed, Neutral.",Normal
+v_66,Okay. I will await the audio file.,Mixed,*   Negative: Frustrated *   Positive: Excited *   Neutral: Hopeful,Mildly
+v_67,Ready.,Mixed.,Negative: Reluctant.  Positive: Excited.  Neutral: Indecisive.,Normal.
+v_69,Okay.,Frustration,"Negative, Hopeful, Neutral",Mildly
+v_7,Understood. Ready.,Mixed.,"Negative, Happy, Neutral.",Normal.
+v_70,(Waiting for audio input),"Negative, Positive, Neutral","Regretful, Joyful, Reflective",Mildly
+v_71,Understood. Ready.,"Sad, Joyful, Calm.","Despondent, Enthusiastic, Reflective.",Mildly Depressed.
+v_72,"Okay, I'm ready. Please provide the audio file.","Sadness, mixed.",*   Negative: Disappointed *   Positive: Cheerful *   Neutral: Calm,Mildly depressed.
+v_73,"Okay, I'm ready. Please provide the audio file.",Mixed,"Negative: Relieved, Positive: Hopeful, Neutral: Observant",Mildly
+v_74,Understood. Ready for the audio file.,Mixed.,Negative: Anxious. Positive: Joyful. Neutral: Informative.,Normal.
+v_75,Ready.,"Neutral, positive, neutral","Calm, happy, thoughtful",Normal
+v_76,Understood.,"Anxious, Hopeful, Analytical","Negative: Frustrated, Positive: Content, Neutral: Reflective",Mildly Depressed.
+v_77,Understood.,Uncertain.,"Negative, Positive, Neutral.",Mildly Depressed.
+v_79,Understood. I'm ready.,"Frustration, Positive, Neutral.",Negative: Aggravated. Positive: Affectionate. Neutral: Content.,Mildly Depressed.
+v_8,Understood. I am ready.,"Relaxed, Hopeful",*   **Negative:** Calm *   **Positive:** Content *   **Neutral:** Reflective,Normal
+v_81,Understood. Please provide the audio file or a way for me to access it. I will then analyze it and give you the emotion and sentiment.,"Negative, Positive, Neutral","Resentful, Joyful, Affectionate",Normal
+v_82,Ready.,Content.,Okay.,Normal.
+v_83,"Okay, ready.","Anxious, Optimistic, Neutral.","Negative, Positive, Objective.",Mildly Depressed.
+v_84,"Okay, I'm ready. Please provide the audio file.","Sad, Happy, Neutral","Disappointed, Relieved, Informative",Mildly
+v_86,*Please provide the audio file or a description of the audio for analysis.*,"Anxious, Hopeful, Neutral",*   Negative: Anxious *   Positive: Encouraged *   Neutral: Matter-of-fact,Mildly Depressed
+v_87,Understood. Please provide the audio file.,Mixed,*   Negative: Annoyed *   Positive: Impressed *   Neutral: Informative,Normal
+v_88,Ready.,"Regret, Positive, Happy.","Regretful, Fond, Joyful.",Mildly Depressed.
+v_89,Understood.,Mixed,*   Negative: Bored *   Positive: Happy *   Neutral: Indifferent,Mildly
+v_9,Understood. Please provide the audio file.,Negative; Positive; Neutral,Negative; Positive; Neutral,Normal
+v_90,Ready.,Mixed.,*   Negative: Frustrated. *   Positive: Calm. *   Neutral: Informative.,Normal.
+v_94,Understood. Ready.,Mixed,*   **Negative:** Controlled *   **Positive:** Relaxed *   **Neutral:** Observational,Normal
+v_96,Ready.,"Regret, Happy, Neutral","Negative, Joyful, Informative",Mildly
+v_97,Understood. Ready.,"Irritated, Happy, Neutral.","Frustrated, Optimistic, Indifferent.",Mildly Depressed.
+v_98,"Okay, ready.",Relaxed,*   **Negative:** Accepting *   **Positive:** Content *   **Neutral:** Casual,Mildly Depressed
+v_99,Understood. Please provide the audio file.,Mixed,*   Negative: Concerned *   Positive: Excited *   Neutral: Hopeful,Mildly

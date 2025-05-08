@@ -8,17 +8,18 @@ from google.genai import types
 # Initialize the Gemini client
 # client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 client = genai.Client(api_key="AIzaSyDqzr4_z5h562UzrpvSZO4KS4BZjjxqlXw")
+client = genai.Client(api_key="AIzaSyBwv1S1Z8PR9CABnSYs2qPwFzFqJGPP5uU")
 
 # Define the model to use
-model_name = "gemini-2.0-flash-lite"
+model_name = "gemini-2.0-flash"
 # Directory containing the audio files
 audio_dir = os.path.join(os.getcwd(), "data", "EATD-Corpus")
 
 # Questions for the experiment
 questions = [
     "The transcript of the audio is: Negative: {0}, Positive: {1}, Neutral: {2}. What is the speaker's emotion?",
-    "Based on the audio and the transcripts, what is the speaker's tone in each clip?",
-    "Based on the audio and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed? Only output the answer.",
+    "Based on the audio transcripts, what is the speaker's tone in each clip?",
+    "Based on the audio transcript and the past conversation, do you think the speaker is Normal, Mildly Depressed, Moderately Depressed, or Severely Depressed? Only output the answer.",
 ]
 
 # Function to process one audio file using the chats API
@@ -67,7 +68,7 @@ def process_audio_file(file_path):
         # System prompt
         while True:
             try:
-                r1 = chat.send_message("You are an AI Mental Health assistant analyzing audio files."
+                r1 = chat.send_message("You are an AI Mental Health assistant analyzing audio transcripts."
                 # "You will keep your answers short and concise. Preferably one word for each emotion and sentiment. Do not explain your answer. Only output the answer.",
                 )
                 # Send audio reference and analysis prompt
@@ -80,7 +81,7 @@ def process_audio_file(file_path):
         while True:
             try:
                 r2 = chat.send_message(
-                    ["Analyze the following audio file and tell me the emotion and sentiment of the speaker. "
+                    ["Analyze the following audio transcript and tell me the emotion and sentiment of the speaker. "
                     "You can also provide additional insights or highlight important words."]
                 )
                 break

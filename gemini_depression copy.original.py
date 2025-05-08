@@ -7,9 +7,10 @@ from google.genai import types
 
 # Initialize the Gemini client
 # client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-client = genai.Client(api_key="AIzaSyDqzr4_z5h562UzrpvSZO4KS4BZjjxqlXw")
+# # client = genai.Client(api_key="AIzaSyDqzr4_z5h562UzrpvSZO4KS4BZjjxqlXw")
+client = genai.Client(api_key="AIzaSyCkN-3hA-Ft_D9bXbsY2MRPd25kR5TDrVk")
 # Define the model to use
-model_name = "gemini-2.0-flash-lite"
+model_name = "gemini-2.0-flash"
 # Directory containing the audio files
 audio_dir = os.path.join(os.getcwd(), "data", "EATD-Corpus")
 
@@ -66,7 +67,7 @@ def process_audio_file(file_path):
         # System prompt
         while True:
             try:
-                r1 = chat.send_message("You are an AI Mental Health assistant analyzing audio files. You will keep your answers short and concise. Preferably one word for each emotion and sentiment. Do not explain your answer. Only output the answer.", )
+                r1 = chat.send_message("You are an AI Mental Health assistant analyzing audio transcripts. You will keep your answers short and concise. Preferably one word for each emotion and sentiment. Do not explain your answer. Only output the answer.", )
                 # Send audio reference and analysis prompt
                 # chat.send_message(audio_ref)
                 break
@@ -77,8 +78,8 @@ def process_audio_file(file_path):
         while True:
             try:
                 r2 = chat.send_message(
-                    ["Analyze the following audio file and tell me the emotion and sentiment of the speaker. "
-                    "You can also provide additional insights or highlight important words.", audio_ref]
+                    ["Analyze the following audio transcript and tell me the emotion and sentiment of the speaker. "
+                    "You can also provide additional insights or highlight important words."]
                 )
                 break
             except Exception as e:
